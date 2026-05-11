@@ -10,46 +10,52 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Персиково-красная цветовая схема (работает и в тёмной теме)
-PEACH = "#FFDAB9"
-CORAL = "#FF7F50"
-SALMON = "#FA8072"
-TOMATO = "#FF6347"
-DARK_RED = "#8B0000"
-WARM_RED = "#E9967A"
-DARK_TEXT = "#2C3E50"  # для светлой темы
-LIGHT_TEXT = "#FFFFFF"  # для тёмной темы
+# Мятно-голубая цветовая схема
+MINT = "#98FB98"
+DEEP_MINT = "#3CB371"
+SKY_BLUE = "#87CEEB"
+DEEP_SKY = "#00BFFF"
+PALE_MINT = "#E0F8E0"
+PALE_BLUE = "#EBF5FB"
+OCEAN = "#20B2AA"
+DARK_TEXT = "#2C3E50"
+LIGHT_TEXT = "#FFFFFF"
 
-# CSS с поддержкой тёмной темы
 st.markdown(f"""
     <style>
-        /* Основной фон с адаптацией */
-        .stApp {{
-            background: linear-gradient(135deg, {PEACH} 0%, #FFF0F0 100%);
+        /* Убираем скролл с сайдбара */
+        section[data-testid="stSidebar"] > div {{
+            overflow-y: hidden !important;
         }}
         
-        /* Тёмная тема автоматически определяется браузером */
+        section[data-testid="stSidebar"] .stSidebarContent {{
+            overflow-y: hidden !important;
+        }}
+        
+        /* Основной фон градиент */
+        .stApp {{
+            background: linear-gradient(135deg, {PALE_BLUE} 0%, {PALE_MINT} 100%);
+        }}
+        
+        /* Тёмная тема */
         @media (prefers-color-scheme: dark) {{
             .stApp {{
-                background: linear-gradient(135deg, #2D1B1B 0%, #1A0F0F 100%);
+                background: linear-gradient(135deg, #0D2B3E 0%, #1A3A2A 100%);
             }}
-            h1, h2, h3 {{
-                color: {CORAL} !important;
-            }}
-            .stMarkdown, p, .stCaption {{
+            h1, h2, h3, .stMarkdown, p, .stCaption {{
                 color: {LIGHT_TEXT} !important;
             }}
         }}
         
         /* Сайдбар */
         div[data-testid="stSidebar"] {{
-            background: linear-gradient(180deg, {PEACH} 0%, #FFF0F0 100%);
+            background: linear-gradient(180deg, {PALE_MINT} 0%, {PALE_BLUE} 100%);
         }}
         
         @media (prefers-color-scheme: dark) {{
             div[data-testid="stSidebar"] {{
-                background: linear-gradient(180deg, #2D1B1B 0%, #1A0F0F 100%);
-                border-right: 2px solid {CORAL};
+                background: linear-gradient(180deg, #1A3A2A 0%, #0D2B3E 100%);
+                border-right: 2px solid {DEEP_MINT};
             }}
             div[data-testid="stSidebar"] .stMarkdown,
             div[data-testid="stSidebar"] p,
@@ -60,18 +66,18 @@ st.markdown(f"""
         
         /* Заголовки */
         h1, h2, h3 {{
-            color: {DARK_RED} !important;
+            color: {OCEAN} !important;
             font-weight: 600 !important;
         }}
         
         /* Метрики */
         div[data-testid="stMetricValue"] {{
-            color: {TOMATO} !important;
+            color: {DEEP_SKY} !important;
             font-size: 2rem !important;
         }}
         
         div[data-testid="stMetricLabel"] {{
-            color: {CORAL} !important;
+            color: {DEEP_MINT} !important;
         }}
         
         /* Табы */
@@ -81,34 +87,34 @@ st.markdown(f"""
         }}
         
         .stTabs [data-baseweb="tab"] {{
-            background-color: {PEACH};
+            background: linear-gradient(135deg, {PALE_BLUE} 0%, {PALE_MINT} 100%);
             border-radius: 10px;
             padding: 10px 20px;
-            color: {DARK_RED};
-            border: 1px solid {CORAL};
+            color: {OCEAN};
+            border: 1px solid {SKY_BLUE};
         }}
         
         @media (prefers-color-scheme: dark) {{
             .stTabs [data-baseweb="tab"] {{
-                background-color: #2D1B1B;
-                color: {CORAL};
-                border: 1px solid {TOMATO};
+                background: linear-gradient(135deg, #0D2B3E 0%, #1A3A2A 100%);
+                color: {SKY_BLUE};
+                border: 1px solid {DEEP_MINT};
             }}
             .stTabs [aria-selected="true"] {{
-                background: linear-gradient(135deg, {CORAL} 0%, {TOMATO} 100%) !important;
+                background: linear-gradient(135deg, {DEEP_MINT} 0%, {DEEP_SKY} 100%) !important;
                 color: white !important;
             }}
         }}
         
         .stTabs [aria-selected="true"] {{
-            background: linear-gradient(135deg, {CORAL} 0%, {TOMATO} 100%) !important;
+            background: linear-gradient(135deg, {DEEP_MINT} 0%, {DEEP_SKY} 100%) !important;
             color: white !important;
             border: none;
         }}
         
         /* Кнопки */
         button {{
-            background: linear-gradient(135deg, {CORAL} 0%, {TOMATO} 100%) !important;
+            background: linear-gradient(135deg, {DEEP_MINT} 0%, {DEEP_SKY} 100%) !important;
             color: white !important;
             border: none !important;
             border-radius: 8px !important;
@@ -120,25 +126,22 @@ st.markdown(f"""
             opacity: 0.9;
         }}
         
-        /* Разделитель */
         hr {{
-            border-color: {CORAL} !important;
+            border-color: {SKY_BLUE} !important;
         }}
         
-        /* Текст в виджетах */
         .stSelectbox label, .stMultiSelect label {{
-            color: {DARK_RED} !important;
+            color: {OCEAN} !important;
         }}
         
         @media (prefers-color-scheme: dark) {{
             .stSelectbox label, .stMultiSelect label {{
-                color: {CORAL} !important;
+                color: {SKY_BLUE} !important;
             }}
         }}
         
-        /* Капшн */
         .stCaption {{
-            color: {DARK_RED} !important;
+            color: {OCEAN} !important;
         }}
     </style>
 """, unsafe_allow_html=True)
@@ -147,7 +150,6 @@ st.title("IT Vacancies: Russian vs International Market")
 st.markdown("---")
 
 def load_csv(filepath):
-    """Load CSV file without pandas"""
     data = []
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
@@ -160,7 +162,6 @@ def load_csv(filepath):
     return data
 
 def load_data():
-    """Load data from CSV files"""
     habr = load_csv('data/clean/habr_clean.csv')
     themuse = load_csv('data/clean/themuse_clean.csv')
 
@@ -207,8 +208,11 @@ with tab1:
         cat_df = [{'Category': k, 'Count': v} for k, v in cat_counts.most_common()]
         if cat_df:
             fig1 = px.bar(cat_df, x='Category', y='Count', title="Vacancies by Category", text='Count')
-            fig1.update_traces(textposition='outside', marker_color=CORAL)
-            fig1.update_layout(showlegend=False, height=400, plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
+            fig1.update_traces(textposition='outside', marker_color=SKY_BLUE,
+                               marker_line_color=DEEP_SKY, marker_line_width=1)
+            fig1.update_layout(showlegend=False, height=400,
+                               plot_bgcolor='rgba(0,0,0,0)',
+                               paper_bgcolor='rgba(0,0,0,0)')
             st.plotly_chart(fig1, use_container_width=True)
 
     with col2:
@@ -216,7 +220,7 @@ with tab1:
         remote_counts = Counter(['Remote' if row.get('remote') else 'Office' for row in filtered])
         remote_df = [{'Remote': k, 'Count': v} for k, v in remote_counts.items()]
         fig2 = px.pie(remote_df, values='Count', names='Remote', title="Work Format", hole=0.3)
-        fig2.update_traces(marker_colors=[CORAL, SALMON])
+        fig2.update_traces(marker_colors=[DEEP_MINT, SKY_BLUE])
         fig2.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
         st.plotly_chart(fig2, use_container_width=True)
 
@@ -227,25 +231,35 @@ with tab1:
         level_counts = Counter([row.get('level', 'Not specified') for row in filtered])
         level_df = [{'Level': k, 'Count': v} for k, v in level_counts.most_common()]
         fig3 = px.bar(level_df, x='Level', y='Count', title="Seniority Distribution", text='Count')
-        fig3.update_traces(textposition='outside', marker_color=TOMATO)
-        fig3.update_layout(showlegend=False, height=400, plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
+        fig3.update_traces(textposition='outside', marker_color=DEEP_MINT,
+                           marker_line_color=OCEAN, marker_line_width=1)
+        fig3.update_layout(showlegend=False, height=400,
+                           plot_bgcolor='rgba(0,0,0,0)',
+                           paper_bgcolor='rgba(0,0,0,0)')
         st.plotly_chart(fig3, use_container_width=True)
 
     with col4:
         st.subheader("Top Companies")
         company_counts = Counter([row.get('company', 'Unknown') for row in filtered])
         company_df = [{'Company': k, 'Count': v} for k, v in company_counts.most_common(10)]
-        fig4 = px.bar(company_df, x='Count', y='Company', orientation='h', title="Top 10 Employers", text='Count')
-        fig4.update_traces(textposition='outside', marker_color=WARM_RED)
-        fig4.update_layout(height=400, plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
+        fig4 = px.bar(company_df, x='Count', y='Company', orientation='h',
+                      title="Top 10 Employers", text='Count')
+        fig4.update_traces(textposition='outside', marker_color=OCEAN,
+                           marker_line_color=DEEP_SKY, marker_line_width=1)
+        fig4.update_layout(height=400, plot_bgcolor='rgba(0,0,0,0)',
+                           paper_bgcolor='rgba(0,0,0,0)')
         st.plotly_chart(fig4, use_container_width=True)
 
     st.subheader("Top Cities")
-    city_counts = Counter([row.get('city', 'Not specified') for row in filtered if row.get('city') not in [None, '', 'Не указан']])
+    city_counts = Counter([row.get('city', 'Not specified') for row in filtered
+                           if row.get('city') not in [None, '', 'Не указан']])
     city_df = [{'City': k, 'Count': v} for k, v in city_counts.most_common(10)]
     fig5 = px.bar(city_df, x='City', y='Count', title="Vacancies by City", text='Count')
-    fig5.update_traces(textposition='outside', marker_color=DARK_RED)
-    fig5.update_layout(showlegend=False, height=400, plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
+    fig5.update_traces(textposition='outside', marker_color=DEEP_SKY,
+                       marker_line_color=DEEP_MINT, marker_line_width=1)
+    fig5.update_layout(showlegend=False, height=400,
+                       plot_bgcolor='rgba(0,0,0,0)',
+                       paper_bgcolor='rgba(0,0,0,0)')
     st.plotly_chart(fig5, use_container_width=True)
 
 with tab2:
@@ -261,8 +275,11 @@ with tab2:
         cat_counts_int = Counter([row.get('category', 'Other IT') for row in filtered_int])
         cat_df_int = [{'Category': k, 'Count': v} for k, v in cat_counts_int.most_common()]
         fig6 = px.bar(cat_df_int, x='Category', y='Count', title="Vacancies by Category", text='Count')
-        fig6.update_traces(textposition='outside', marker_color=CORAL)
-        fig6.update_layout(showlegend=False, height=400, plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
+        fig6.update_traces(textposition='outside', marker_color=SKY_BLUE,
+                           marker_line_color=DEEP_SKY, marker_line_width=1)
+        fig6.update_layout(showlegend=False, height=400,
+                           plot_bgcolor='rgba(0,0,0,0)',
+                           paper_bgcolor='rgba(0,0,0,0)')
         st.plotly_chart(fig6, use_container_width=True)
 
     with col2:
@@ -270,7 +287,7 @@ with tab2:
         remote_counts_int = Counter(['Remote' if row.get('remote') else 'Office' for row in filtered_int])
         remote_df_int = [{'Remote': k, 'Count': v} for k, v in remote_counts_int.items()]
         fig7 = px.pie(remote_df_int, values='Count', names='Remote', title="Work Format", hole=0.3)
-        fig7.update_traces(marker_colors=[CORAL, SALMON])
+        fig7.update_traces(marker_colors=[DEEP_MINT, SKY_BLUE])
         fig7.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
         st.plotly_chart(fig7, use_container_width=True)
 
@@ -281,29 +298,39 @@ with tab2:
         level_counts_int = Counter([row.get('level', 'Not specified') for row in filtered_int])
         level_df_int = [{'Level': k, 'Count': v} for k, v in level_counts_int.most_common()]
         fig8 = px.bar(level_df_int, x='Level', y='Count', title="Seniority Distribution", text='Count')
-        fig8.update_traces(textposition='outside', marker_color=TOMATO)
-        fig8.update_layout(showlegend=False, height=400, plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
+        fig8.update_traces(textposition='outside', marker_color=DEEP_MINT,
+                           marker_line_color=OCEAN, marker_line_width=1)
+        fig8.update_layout(showlegend=False, height=400,
+                           plot_bgcolor='rgba(0,0,0,0)',
+                           paper_bgcolor='rgba(0,0,0,0)')
         st.plotly_chart(fig8, use_container_width=True)
 
     with col4:
         st.subheader("Top Companies")
         company_counts_int = Counter([row.get('company', 'Unknown') for row in filtered_int])
         company_df_int = [{'Company': k, 'Count': v} for k, v in company_counts_int.most_common(10)]
-        fig9 = px.bar(company_df_int, x='Count', y='Company', orientation='h', title="Top 10 Employers", text='Count')
-        fig9.update_traces(textposition='outside', marker_color=WARM_RED)
-        fig9.update_layout(height=400, plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
+        fig9 = px.bar(company_df_int, x='Count', y='Company', orientation='h',
+                      title="Top 10 Employers", text='Count')
+        fig9.update_traces(textposition='outside', marker_color=OCEAN,
+                           marker_line_color=DEEP_SKY, marker_line_width=1)
+        fig9.update_layout(height=400, plot_bgcolor='rgba(0,0,0,0)',
+                           paper_bgcolor='rgba(0,0,0,0)')
         st.plotly_chart(fig9, use_container_width=True)
 
     st.subheader("Top Countries")
-    country_counts_int = Counter([row.get('country', 'Not specified') for row in filtered_int if row.get('country') not in [None, '', 'Не указана']])
+    country_counts_int = Counter([row.get('country', 'Not specified') for row in filtered_int
+                                  if row.get('country') not in [None, '', 'Не указана']])
     country_df_int = [{'Country': k, 'Count': v} for k, v in country_counts_int.most_common(10)]
     fig10 = px.bar(country_df_int, x='Country', y='Count', title="Vacancies by Country", text='Count')
-    fig10.update_traces(textposition='outside', marker_color=DARK_RED)
-    fig10.update_layout(showlegend=False, height=400, plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
+    fig10.update_traces(textposition='outside', marker_color=DEEP_SKY,
+                        marker_line_color=DEEP_MINT, marker_line_width=1)
+    fig10.update_layout(showlegend=False, height=400,
+                        plot_bgcolor='rgba(0,0,0,0)',
+                        paper_bgcolor='rgba(0,0,0,0)')
     st.plotly_chart(fig10, use_container_width=True)
 
 st.markdown("---")
 st.markdown(
-    "<div style='text-align: center; padding: 20px;'>Data sources: Habr Career (Russia) | The Muse API (International)</div>",
+    "<div style='text-align: center; color: #20B2AA; padding: 20px;'>Data sources: Habr Career (Russia) | The Muse API (International)</div>",
     unsafe_allow_html=True
 )
