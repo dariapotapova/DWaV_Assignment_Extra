@@ -10,40 +10,76 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Персиково-красная цветовая схема
+# Персиково-красная цветовая схема (работает и в тёмной теме)
 PEACH = "#FFDAB9"
 CORAL = "#FF7F50"
 SALMON = "#FA8072"
 TOMATO = "#FF6347"
 DARK_RED = "#8B0000"
-LIGHT_PEACH = "#FFF0F0"
 WARM_RED = "#E9967A"
+DARK_TEXT = "#2C3E50"  # для светлой темы
+LIGHT_TEXT = "#FFFFFF"  # для тёмной темы
 
-# CSS для дизайна
+# CSS с поддержкой тёмной темы
 st.markdown(f"""
     <style>
+        /* Основной фон с адаптацией */
         .stApp {{
-            background: linear-gradient(135deg, {LIGHT_PEACH} 0%, {PEACH} 100%);
+            background: linear-gradient(135deg, {PEACH} 0%, #FFF0F0 100%);
         }}
+        
+        /* Тёмная тема автоматически определяется браузером */
+        @media (prefers-color-scheme: dark) {{
+            .stApp {{
+                background: linear-gradient(135deg, #2D1B1B 0%, #1A0F0F 100%);
+            }}
+            h1, h2, h3 {{
+                color: {CORAL} !important;
+            }}
+            .stMarkdown, p, .stCaption {{
+                color: {LIGHT_TEXT} !important;
+            }}
+        }}
+        
+        /* Сайдбар */
         div[data-testid="stSidebar"] {{
-            background: linear-gradient(180deg, {PEACH} 0%, {LIGHT_PEACH} 100%);
-            border-right: 2px solid {CORAL};
+            background: linear-gradient(180deg, {PEACH} 0%, #FFF0F0 100%);
         }}
+        
+        @media (prefers-color-scheme: dark) {{
+            div[data-testid="stSidebar"] {{
+                background: linear-gradient(180deg, #2D1B1B 0%, #1A0F0F 100%);
+                border-right: 2px solid {CORAL};
+            }}
+            div[data-testid="stSidebar"] .stMarkdown,
+            div[data-testid="stSidebar"] p,
+            div[data-testid="stSidebar"] label {{
+                color: {LIGHT_TEXT} !important;
+            }}
+        }}
+        
+        /* Заголовки */
         h1, h2, h3 {{
             color: {DARK_RED} !important;
             font-weight: 600 !important;
         }}
+        
+        /* Метрики */
         div[data-testid="stMetricValue"] {{
             color: {TOMATO} !important;
             font-size: 2rem !important;
         }}
+        
         div[data-testid="stMetricLabel"] {{
             color: {CORAL} !important;
         }}
+        
+        /* Табы */
         .stTabs [data-baseweb="tab-list"] {{
             gap: 8px;
             background-color: transparent;
         }}
+        
         .stTabs [data-baseweb="tab"] {{
             background-color: {PEACH};
             border-radius: 10px;
@@ -51,25 +87,56 @@ st.markdown(f"""
             color: {DARK_RED};
             border: 1px solid {CORAL};
         }}
+        
+        @media (prefers-color-scheme: dark) {{
+            .stTabs [data-baseweb="tab"] {{
+                background-color: #2D1B1B;
+                color: {CORAL};
+                border: 1px solid {TOMATO};
+            }}
+            .stTabs [aria-selected="true"] {{
+                background: linear-gradient(135deg, {CORAL} 0%, {TOMATO} 100%) !important;
+                color: white !important;
+            }}
+        }}
+        
         .stTabs [aria-selected="true"] {{
-            background: linear-gradient(135deg, {CORAL} 0%, {TOMATO} 100%);
-            color: white;
+            background: linear-gradient(135deg, {CORAL} 0%, {TOMATO} 100%) !important;
+            color: white !important;
             border: none;
         }}
+        
+        /* Кнопки */
         button {{
             background: linear-gradient(135deg, {CORAL} 0%, {TOMATO} 100%) !important;
             color: white !important;
             border: none !important;
             border-radius: 8px !important;
         }}
+        
         button:hover {{
             transform: scale(1.02);
             transition: 0.3s;
             opacity: 0.9;
         }}
+        
+        /* Разделитель */
         hr {{
             border-color: {CORAL} !important;
         }}
+        
+        /* Текст в виджетах */
+        .stSelectbox label, .stMultiSelect label {{
+            color: {DARK_RED} !important;
+        }}
+        
+        @media (prefers-color-scheme: dark) {{
+            .stSelectbox label, .stMultiSelect label {{
+                color: {CORAL} !important;
+            }}
+        }}
+        
+        /* Капшн */
         .stCaption {{
             color: {DARK_RED} !important;
         }}
@@ -237,6 +304,6 @@ with tab2:
 
 st.markdown("---")
 st.markdown(
-    "<div style='text-align: center; color: #FF7F50; padding: 20px;'>Data sources: Habr Career (Russia) | The Muse API (International)</div>",
+    "<div style='text-align: center; padding: 20px;'>Data sources: Habr Career (Russia) | The Muse API (International)</div>",
     unsafe_allow_html=True
 )
