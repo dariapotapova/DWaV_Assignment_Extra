@@ -1,0 +1,588 @@
+﻿source,id,title,company,city,remote,salary_min,salary_max,salary_avg,currency,skills,level,category,collected_at
+Habr,habr_1000165703,Аналитик данных (Антифрод-система),Совкомбанк Технологии,Казань,False,,,,RUB,"SQL, Python, TensorFlow, Keras, NumPy",Not specified,Data Analytics,2026-05-11 17:54:51
+Habr,habr_1000166231,Python developer,ITK academy,Краснодар,True,220000.0,300000.0,260000.0,RUB,"Python, PostgreSQL, Docker, Apache Kafka, CI/CD",Not specified,Software Development,2026-05-11 17:54:51
+Habr,habr_1000163346,Python Developer,ITK academy,Краснодар,True,75000.0,,75000.0,RUB,"Git, SQL, Python, ООП, Docker",Not specified,Software Development,2026-05-11 17:54:51
+Habr,habr_1000165568,Python разработчик,ГНИВЦ,Москва,True,,,,RUB,"Openstack, Asyncio, SQLalchemy, Linux, PostgreSQL",Not specified,Software Development,2026-05-11 17:54:51
+Habr,habr_1000166116,Junior AI Automation Engineer / AI-инженер (junior),OPENCITY,Нижний Новгород,True,50000.0,,50000.0,RUB,"LLM, Python, Тестирование API, Langgraph, Разработка решений по интеграции",Junior,Other IT,2026-05-11 17:54:51
+Habr,habr_1000165251,Python-разработчик,ИТ-компания «Лоция»,Москва,True,,,,RUB,Python,Not specified,Software Development,2026-05-11 17:54:51
+Habr,habr_1000164426,Разработчик бэкенда (Python/Django) в команду развития сотрудников,Яндекс,Екатеринбург,False,,,,RUB,"Python, PostgreSQL, Django, Celery, Redis",Not specified,Software Development,2026-05-11 17:54:51
+Habr,habr_1000166290,"Старший инженер по автоматизации тестирования (Python, финтех)/ Senior AQA",Хайтек,Не указан,True,,,,RUB,"Автоматизация тестирования, Python, Selenium, Playwright, Тестирование API",Senior,Software Development,2026-05-11 17:54:51
+Habr,habr_1000165851,Python-разработчик в ML,Koronatech,Томск,True,,,,RUB,"Python, CI/CD, SQL, NoSQL, Kubernetes",Not specified,Software Development,2026-05-11 17:54:51
+Habr,habr_1000166170,Senior QA Automation Engineer (Python),2GIS,Москва,True,,,,RUB,"Python, Автоматизация тестирования, Langgraph, LLM",Senior,Software Development,2026-05-11 17:54:51
+Habr,habr_1000166198,"Программист backend Python, Django middle +",Главгосэкспертиза России,Москва,False,,,,RUB,"Python, Django, PostgreSQL, Docker, Git",Middle,Software Development,2026-05-11 17:54:51
+Habr,habr_1000165161,ML Engineer / Инженер машинного обучения,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"Linux, TensorFlow, GitHub, PostgreSQL, Python",Not specified,Data Science,2026-05-11 17:54:51
+Habr,habr_1000159590,Tech Lead Python (IaaS/PaaS),ГНИВЦ,Москва,True,,,,RUB,"KVM, SQL, Виртуализация, Python, PostgreSQL",Senior,Software Development,2026-05-11 17:54:51
+Habr,habr_1000166308,Разработчик MLOps (Python),Action tech,Москва,True,,,,RUB,"Python, PHP, Linux, Git, Docker",Not specified,Software Development,2026-05-11 17:54:51
+Habr,habr_1000166009,Senior Python Developer,Bell Integrator,Минск,True,,,,RUB,"Python, Apache Kafka, RabbitMQ",Senior,Software Development,2026-05-11 17:54:51
+Habr,habr_1000165410,Python Developer / SDET (сетевое оборудование),ЛАНИТ,Не указан,True,,,,RUB,"Python, TCP, Pytest, Bash, Сетевые технологии",Not specified,Software Development,2026-05-11 17:54:51
+Habr,habr_1000165789,ML-инженер (Направление клиентского сервиса),Wildberries & Russ,Не указан,True,,,,RUB,"NLP, TTS",Not specified,Other IT,2026-05-11 17:54:51
+Habr,habr_1000166164,Python-инженер в SaaS про AI для CAD/CAM,DigiFabster,Не указан,True,,,,RUB,"Python, Машинное обучение, Нейронные сети, Система автоматизированного проектирования, SQL",Not specified,Software Development,2026-05-11 17:54:51
+Habr,habr_1000166311,QA Engineer (Manual → AQA),Adfinity,Не указан,True,150000.0,,150000.0,RUB,"Python, Docker, REST, Bash, Linux",Not specified,QA,2026-05-11 17:54:51
+Habr,habr_1000166241,Data Scientist,М Тех,Москва,True,,,,RUB,"Python, SQL, Apache Kafka",Not specified,Data Science,2026-05-11 17:54:51
+Habr,habr_1000166248,AI Automation Engineer,Boomerangme 🎫,Не указан,True,,,,RUB,"n8n, Python, FastAPI, GPT, LLM",Not specified,Other IT,2026-05-11 17:54:51
+Habr,habr_1000166154,Team Lead (Ecom),GRI,Москва,False,,,,RUB,"FastAPI, Django, Python, Agile, Golang",Senior,Other IT,2026-05-11 17:54:51
+Habr,habr_1000166025,Data Scientist (NLP|LLM),СберЗдоровье,Москва,True,,,,RUB,"NLP, LLM, Компьютерное зрение, Python",Not specified,Data Science,2026-05-11 17:54:51
+Habr,habr_1000163076,Инженер кибербезопасности облака,Cloud.ru,Не указан,True,,,,RUB,AWS,Not specified,Other IT,2026-05-11 17:54:51
+Habr,habr_1000166353,AI Bulider,ИП Даутова Дина Саитовна,Не указан,True,130000.0,140000.0,135000.0,RUB,Базы данных,Not specified,Other IT,2026-05-11 17:54:51
+Habr,habr_1000166282,ML-инженер,ГНИВЦ,Москва,False,,,,RUB,"Git, PostgreSQL, Python",Not specified,Other IT,2026-05-11 17:54:54
+Habr,habr_1000133692,"Fullstack-разработчик (.Net core, React)",УК «Аэропорты Регионов»,Екатеринбург,True,,,,RUB,".NET Core, React, .NET",Not specified,Software Development,2026-05-11 17:54:54
+Habr,habr_1000164646,С++ Developer,Eltex,Новосибирск,False,,,,RUB,"C++, Linux",Not specified,Software Development,2026-05-11 17:54:54
+Habr,habr_1000164325,Старший ML-разработчик агентов для Алисы,Яндекс,Москва,False,,,,RUB,"Deep Learning, NLP, LLM, PyTorch, Python",Not specified,Software Development,2026-05-11 17:54:54
+Habr,habr_1000164629,Техлид в команду высокоточных цифровых дорожных карт,Navio,Москва,False,,,,RUB,"Python, Алгоритмы и структуры данных, Большие данные, Машинное обучение, Deep Learning",Not specified,Other IT,2026-05-11 17:54:54
+Habr,habr_1000166397,NLP-разработчик в Браузер,Яндекс,Москва,False,,,,RUB,"Python, Docker, PyTorch, Deep Learning, NLP",Not specified,Software Development,2026-05-11 17:54:54
+Habr,habr_1000128046,Java-разработчик в Маркет,Яндекс,Нижний Новгород,False,180000.0,350000.0,265000.0,RUB,"Java, Java Spring Framework",Not specified,Software Development,2026-05-11 17:54:54
+Habr,habr_1000165249,Java разработчик с нуля (стажер),Aston,Москва,True,52000.0,,52000.0,RUB,"Java, Hibernate, MySQL, PostgreSQL, Git",Junior,Software Development,2026-05-11 17:54:54
+Habr,habr_1000166297,Lead Search Engineer,Nibelung,Не указан,True,,,,RUB,"Python, Git, Docker, Linux, RabbitMQ",Senior,Other IT,2026-05-11 17:54:54
+Habr,habr_1000166213,AI Automation/AI Systems Integrator (AI Automation Engineer/LLM Systems Engineer,"Автосалон ""First class""",Москва,False,,,,RUB,"LLM, OpenAPI Specification, GPT, RESTful API, Docker",Not specified,Other IT,2026-05-11 17:54:54
+Habr,habr_1000164074,Инженер по обеспечению качества,Сонерик,Москва,True,,,,RUB,"Тестирование ПО, Python, ООП, Pytest, Git",Not specified,Other IT,2026-05-11 17:54:54
+Habr,habr_1000166129,Senior Backend Developer,Outreach Today,Не указан,True,,,,RUB,"JavaScript, TypeScript, Node.js, Golang, Python",Senior,Software Development,2026-05-11 17:54:54
+Habr,habr_1000166220,Разработчик Bitrix 24,МосТабак,Москва,False,,,,RUB,"SQL, PHP, PostgreSQL, HTML, Vue.js",Not specified,Software Development,2026-05-11 17:54:54
+Habr,habr_1000166117,NLP-разработчик в Алису,Яндекс,Москва,False,,,,RUB,NLP,Not specified,Software Development,2026-05-11 17:54:54
+Habr,habr_1000166254,Инженер по автоматизированному тестированию / AQA (Java / Kotlin),М Тех,Москва,True,,,,RUB,"Java, Kotlin",Not specified,Software Development,2026-05-11 17:54:54
+Habr,habr_1000166296,MLOps-инженер,М Тех,Москва,True,,,,RUB,"Kubernetes, Apache Airflow, Linux, Python",Not specified,Other IT,2026-05-11 17:54:54
+Habr,habr_1000166331,Senior AI Platform Engineer / LLMOps Engineer / Tech Lead,ПСМ Unlim,Ярославль,True,300000.0,,300000.0,RUB,"Scada, АСУ ТП, Docker, Python, Redis",Senior,Other IT,2026-05-11 17:54:54
+Habr,habr_1000164602,LEAD AI/ML ENGINEER,Selecty,Москва,False,400000.0,,400000.0,RUB,"Python, GPT, LLM, Компьютерное зрение, FastAPI",Senior,Data Science,2026-05-11 17:54:54
+Habr,habr_1000166257,Тестировщик-автоматизатор (AQA),Fusion Tech,Не указан,True,,,,RUB,"Тестирование API, Java, Junit, SQL, ООП",Not specified,QA,2026-05-11 17:54:54
+Habr,habr_1000156172,Разработчик в буткемп Core Infrastructure,Яндекс,Новосибирск,True,300000.0,490000.0,395000.0,RUB,"Python, C++, Golang, Алгоритмы и структуры данных",Not specified,Software Development,2026-05-11 17:54:54
+Habr,habr_1000149891,QA Engineer (Unified Communications (UC)),Eltex,Новосибирск,False,,,,RUB,"Linux, Python, Docker, VoIP, SIP",Not specified,QA,2026-05-11 17:54:54
+Habr,habr_1000163088,Automation QA (Storage S3),Cloud.ru,Не указан,True,,,,RUB,"Python, Linux, Pytest",Not specified,QA,2026-05-11 17:54:54
+Habr,habr_1000166356,ML Engineer,Нетбелл,Не указан,True,,,,RUB,"Python, LLM, Docker, Kubernetes",Not specified,Data Science,2026-05-11 17:54:55
+Habr,habr_1000162093,Middle/Senior Golang Developer,Cloud.ru,Не указан,True,,,,RUB,"Golang, Kubernetes, Python, Linux",Senior,Software Development,2026-05-11 17:54:55
+Habr,habr_1000165804,BI-аналитик,Coral Club,Не указан,True,,,,RUB,"PostgreSQL, Apache Superset, Python, React, DWH",Not specified,Other IT,2026-05-11 17:54:55
+Habr,habr_1000164434,Разработчик бэкенда в Яндекс Образование,Яндекс,Минск,False,,,,RUB,"Python, Golang, MongoDB, PostgreSQL",Not specified,Software Development,2026-05-11 17:54:58
+Habr,habr_1000157044,Специалист по анализу защищенности (pentest),Золотое Яблоко,Екатеринбург,False,,,,RUB,"SQL, Python, PostgreSQL, Django, OWASP",Not specified,QA,2026-05-11 17:54:58
+Habr,habr_1000164844,Инженер по глубокому обучению в команду нейросетевого планировщика траектории,Navio,Москва,False,,,,RUB,"Python, C++, Алгоритмы и структуры данных, Оптимизация кода, Машинное обучение",Not specified,Other IT,2026-05-11 17:54:58
+Habr,habr_1000166320,Инженер-интегратор робототехнических систем,IT-hunter,Москва,False,,,,RUB,"STM32, Python, C++, Linux",Not specified,Other IT,2026-05-11 17:54:58
+Habr,habr_1000165284,ML Разработчик [Java],deeplay,Москва,False,,,,RUB,"Java, Git",Not specified,Software Development,2026-05-11 17:54:58
+Habr,habr_1000166145,Бизнес-партнер по ИБ,Spice IT,Не указан,True,,,,RUB,"SAST/DAST, Информационная безопасность",Not specified,Other IT,2026-05-11 17:54:58
+Habr,habr_1000166273,MLSecOps,ГНИВЦ,Москва,False,,,,RUB,"Linux, Docker, Kubernetes, Python, CI/CD",Not specified,Other IT,2026-05-11 17:54:58
+Habr,habr_1000165218,Аналитик SOC | Специалист 2 линии SOC,Анонимный работодатель,Новосибирск,True,,,,RUB,"Информационная безопасность, SIEM",Not specified,Other IT,2026-05-11 17:54:58
+Habr,habr_1000164921,PHP-разработчик,Остров Сокровищ,Не указан,True,15000.0,250000.0,132500.0,RUB,"Linux, PHP, Laravel, Symfony, MySQL",Not specified,Software Development,2026-05-11 17:54:58
+Habr,habr_1000166222,C# Developer (WinForms + SQL),Ляпунов и Резниченко,Санкт-Петербург,False,350000.0,,350000.0,RUB,"C#, Windows Forms, .NET, SQL, RESTful API",Not specified,Software Development,2026-05-11 17:54:58
+Habr,habr_1000164839,Product Analyst,Wildberries & Russ,Санкт-Петербург,True,,,,RUB,"SQL, Python, A/B тестирование",Not specified,Data Analytics,2026-05-11 17:54:58
+Habr,habr_1000165261,Java Developer,ИТ-компания «Лоция»,Москва,True,,,,RUB,"Java, Gradle, Apache Kafka, Java Spring Framework, Spring Boot",Not specified,Software Development,2026-05-11 17:54:58
+Habr,habr_1000165742,Разработчик Ruby On Rail-Senior (Fullstack),AUROSPACE Holding,Санкт-Петербург,True,,,,RUB,"Ruby, RESTful API, React, Ruby on Rails, PostgreSQL",Senior,Software Development,2026-05-11 17:54:58
+Habr,habr_1000165669,Data Scientist,Фарпост,Владивосток,True,,,,RUB,"Deep Learning, SQL, Python",Not specified,Data Science,2026-05-11 17:54:58
+Habr,habr_1000165038,Аналитик данных,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,Python,Not specified,Data Analytics,2026-05-11 17:54:58
+Habr,habr_1000164666,Data Engineer,Т-Банк,Новосибирск,True,,,,RUB,"Greenplum, SQL, Python, Apache Airflow, ETL",Not specified,Data Engineering,2026-05-11 17:54:58
+Habr,habr_1000165525,Java Team Lead / Lead Developer,Okko,Санкт-Петербург,True,,,,RUB,"Java, PostgreSQL",Senior,Software Development,2026-05-11 17:54:58
+Habr,habr_1000166322,Team Lead разработки (Java),AЭРО,Не указан,True,,,,RUB,"Java, Apache Kafka, Высоконагруженные системы, PostgreSQL, Spring Boot",Senior,Software Development,2026-05-11 17:54:58
+Habr,habr_1000166120,Aдминистратор баз данных PostgreSQL,Ренессанс Жизнь,Москва,True,,,,RUB,"Python, PostgreSQL, SQL, Bash, Linux",Not specified,Other IT,2026-05-11 17:54:58
+Habr,habr_1000164876,Консультант по направлению анализа защищённости (Vulnerability Management),Банк России,Москва,False,,,,RUB,"Linux, Python",Not specified,Other IT,2026-05-11 17:54:58
+Habr,habr_1000161662,QA Manual,Wildberries & Russ,Москва,True,,,,RUB,"Postman, YouTrack, Charles, Тестирование API, Ручное тестирование",Not specified,QA,2026-05-11 17:54:58
+Habr,habr_1000166151,Vue 3 Frontend Developer,Carbogatto,Не указан,True,100000.0,250000.0,175000.0,RUB,"Vue.js, TypeScript, Vite, Маршрутизация, RESTful API",Not specified,Software Development,2026-05-11 17:54:58
+Habr,habr_1000164812,Старший DevOps-инженер (Openstack),МТ-Интеграция,Москва,True,,,,RUB,"Openstack, GitLab, Linux, Ansible, Python",Not specified,DevOps,2026-05-11 17:54:58
+Habr,habr_1000164103,Руководитель группы разработки в Data center infrastructure management,Яндекс,Санкт-Петербург,False,,,,RUB,"Python, Golang, Управление людьми",Not specified,DevOps,2026-05-11 17:55:00
+Habr,habr_1000165716,Аналитик данных (финансовое направление),TravelLine,Казань,True,,,,RUB,"SQL, Python, Математическая статистика, PowerBI, Microsoft Excel",Not specified,Data Analytics,2026-05-11 17:55:00
+Habr,habr_1000166339,Angular-разработчик,Граффинтех,Не указан,True,,,,RUB,"Angular, TypeScript, REST, JSON, OpenAPI Specification",Not specified,Software Development,2026-05-11 17:55:00
+Habr,habr_1000159384,Разработчик 1С / Специалист по интеграции (Мегаплан + 1С),Мегаплан,Москва,True,100000.0,,100000.0,RUB,"Администрирование 1С, RESTful API, HTTP, Разработка под 1С, XML",Not specified,Software Development,2026-05-11 17:55:00
+Habr,habr_1000164814,Инженер по тестированию / QA engineer (Виртуализация),МТ-Интеграция,Москва,True,,,,RUB,"Openstack, Linux, Python",Not specified,QA,2026-05-11 17:55:00
+Habr,habr_1000164486,Главный специалист управления уязвимостями (SOC VM),ИТ-компания «Лоция»,Москва,False,,,,RUB,"SIEM, Анализ угроз, Защита информации",Not specified,Other IT,2026-05-11 17:55:00
+Habr,habr_1000135389,Аналитик данных,МегаФон,Не указан,True,,,,RUB,"Python, SQL, Продуктовая аналитика, A/B тестирование",Not specified,Data Analytics,2026-05-11 17:55:00
+Habr,habr_1000164179,Data Engineer,Coral Club,Москва,True,,,,RUB,"PostgreSQL, SQL, Python, Базы данных",Not specified,Data Engineering,2026-05-11 17:55:00
+Habr,habr_1000166244,Team Lead автоматизации тестирования (SDET),ИнфоТеКС,Санкт-Петербург,False,,,,RUB,"Python, Pytest, Docker, Git, TeamCity",Senior,Other IT,2026-05-11 17:55:00
+Habr,habr_1000164806,Руководитель команды разработки / TechLead,МТ-Интеграция,Москва,False,,,,RUB,"Python, Golang",Senior,Other IT,2026-05-11 17:55:00
+Habr,habr_1000166148,Data Analyst / Data Scientist (Fintech / Payments),AUROSPACE Holding,Москва,True,,,,RUB,"SQL, Python, PostgreSQL, BI, Анализ данных",Not specified,Data Science,2026-05-11 17:55:00
+Habr,habr_1000165037,Старший аналитик,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"Python, Алгоритмы и структуры данных, Базы данных",Not specified,Other IT,2026-05-11 17:55:00
+Habr,habr_1000166362,Продуктовый аналитик  (геймдев),HappyGames Studio,Не указан,True,150000.0,,150000.0,RUB,"SQL, Python, BI, Математическая статистика, Tableau",Not specified,Other IT,2026-05-11 17:55:00
+Habr,habr_1000147159,AppSeс - инженер,Банк России,Казань,False,,,,RUB,"Python, DevSecOps, SAST/DAST, Java, Баг-трекинг",Not specified,Other IT,2026-05-11 17:55:00
+Habr,habr_1000166352,MLops инженер,IBS,Москва,False,,,,RUB,"Python, ETL, Greenplum, Apache Hadoop, Apache Airflow",Not specified,Other IT,2026-05-11 17:55:00
+Habr,habr_1000166002,Продуктовый аналитик в Путешествия,Яндекс,Санкт-Петербург,False,,,,RUB,"SQL, Python",Not specified,Other IT,2026-05-11 17:55:00
+Habr,habr_1000161037,Ведущий инженер L3,Cloud.ru,Москва,False,,,,RUB,"Osi model, TCP, Bash, Python, Linux",Not specified,Other IT,2026-05-11 17:55:00
+Habr,habr_1000166246,DevOps-инженер,OPENCITY,Не указан,True,50000.0,,50000.0,RUB,"Git, Docker, Linux, Kubernetes, CI/CD",Not specified,DevOps,2026-05-11 17:55:00
+Habr,habr_1000166242,Lead Rust,М Тех,Москва,True,,,,RUB,"Python, PostgreSQL, Apache Kafka, CI/CD, Redis",Senior,Other IT,2026-05-11 17:55:00
+Habr,habr_1000166150,Lead Data Analyst / Analytics Lead,ЭПЕКО,Москва,False,,,,RUB,"SQL, Python, Базы данных, PHP, Docker",Senior,Data Analytics,2026-05-11 17:55:00
+Habr,habr_1000165871,Специалист по защите информации (тестирование),ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,,,RUB,"C#, C++, C, Python, Java",Not specified,Other IT,2026-05-11 17:55:00
+Habr,habr_1000166177,Руководитель отдела аналитики,LADA Цифра,Москва,False,,,,RUB,"SQL, Python, Apache Superset, BI, PowerBI",Not specified,Other IT,2026-05-11 17:55:00
+Habr,habr_1000165408,Сетевой инженер (ethernet-коммутаторы),ЛАНИТ,Не указан,True,,,,RUB,"Администрирование сетей, Администрирование оборудования Cisco, Сетевые технологии, Cisco CCNA, CCNA",Not specified,Other IT,2026-05-11 17:55:00
+Habr,habr_1000166007,SRE Engineer,Банк России,Москва,False,,,,RUB,"Linux, Zabbix, Prometheus, Python, Bash",Not specified,DevOps,2026-05-11 17:55:00
+Habr,habr_1000164113,Системный разработчик С++ в команду основных компонентов,Navio,Москва,False,,,,RUB,"Python, C++, Linux",Not specified,Software Development,2026-05-11 17:55:03
+Habr,habr_1000153953,Data Engineer mid (DWH),СберЗдоровье,Москва,True,,,,RUB,"SQL, Python, DWH, ClickHouse, Apache Airflow",Middle,Data Engineering,2026-05-11 17:55:03
+Habr,habr_1000165216,Менеджер продукта,Анонимный работодатель,Москва,True,,,,RUB,"SQL, Python, Agile",Not specified,Other IT,2026-05-11 17:55:03
+Habr,habr_1000165592,"Продуктовый аналитик (только офис, Владивосток)",Фарпост,Владивосток,False,,,,RUB,"MySQL, Python, A/B тестирование, ClickHouse, Metabase",Not specified,Other IT,2026-05-11 17:55:03
+Habr,habr_1000165353,Аналитик сетевой безопасности,Совкомбанк Технологии,Саратов,False,,,,RUB,"OSPF, Настройка VPN, SQL, Python, BGP",Not specified,Other IT,2026-05-11 17:55:03
+Habr,habr_1000165619,Сетевой инженер,Автоматизация розничных технологий,Ульяновск,False,175000.0,200000.0,187500.0,RUB,"Zabbix, Docker, VMware, Python, Mikrotik",Not specified,Other IT,2026-05-11 17:55:03
+Habr,habr_1000165809,Инженер данных,SimbirSoft,Не указан,True,,,,RUB,"PostgreSQL, ClickHouse, Python, Apache Airflow, Apache NiFi",Not specified,Data Engineering,2026-05-11 17:55:03
+Habr,habr_1000164875,Эксперт направления оценки соответствия требованиям ИБ (compliance),Банк России,Москва,False,,,,RUB,"Linux, SDL/SDLC, Python, Splunk",Not specified,Other IT,2026-05-11 17:55:03
+Habr,habr_1000166180,Go Developer,ITK academy,Казань,True,75000.0,125000.0,100000.0,RUB,"SQL, MySQL, PostgreSQL, Golang, RESTful API",Not specified,Software Development,2026-05-11 17:55:03
+Habr,habr_1000164295,Руководитель группы разработки Sandbox в DevTools,Яндекс,Санкт-Петербург,False,,,,RUB,"Python, Управление людьми, Управление проектами",Not specified,Other IT,2026-05-11 17:55:03
+Habr,habr_1000163189,Инженер техподдержки L2,Cloud.ru,Москва,True,,,,RUB,SQL,Not specified,Other IT,2026-05-11 17:55:03
+Habr,habr_1000166335,Специалист по сертификационным испытаниям (ФСТЭК),ИнфоТеКС,Пенза,False,,,,RUB,"C, C++, Python, Java, C#",Not specified,Other IT,2026-05-11 17:55:03
+Habr,habr_1000161260,Java (Т-банк),ИТ-Холдинг Т1,Екатеринбург,True,,,,RUB,Java,Not specified,Software Development,2026-05-11 17:55:03
+Habr,habr_1000166209,Appsec,IT_One,Не указан,True,,,,RUB,"OWASP, SAST/DAST, Docker, CI/CD, gRPC",Not specified,Other IT,2026-05-11 17:55:03
+Habr,habr_1000164856,Старший LLM-разработчик в сервис Нейроюрист,Яндекс,Москва,True,,,,RUB,"Python, NLP, LLM, Langgraph",Not specified,Software Development,2026-05-11 17:55:03
+Habr,habr_1000164330,Архитектор,Fix Price,Москва,True,,,,RUB,"PHP, ООП, Базы данных, Высоконагруженные системы",Not specified,Other IT,2026-05-11 17:55:03
+Habr,habr_1000160479,Reverse-инженер,deeplay,Казань,True,,,,RUB,"Обратная разработка, C#, Python, Frida",Not specified,Other IT,2026-05-11 17:55:03
+Habr,habr_1000166314,Dev Team Lead/ Tech Lead/ Технический директор,UANT Limited,Не указан,True,500000.0,1000000.0,750000.0,RUB,"Python, TypeScript, Node.js, Next.js, React",Senior,Other IT,2026-05-11 17:55:03
+Habr,habr_1000163830,Руководитель группы разработки Автосборки в DevTools,Яндекс,Санкт-Петербург,False,,,,RUB,"Python, C++, Управление людьми, CI/CD",Not specified,Other IT,2026-05-11 17:55:03
+Habr,habr_1000165990,Программист C++ (Qt),Uniscan Research,Новосибирск,False,140000.0,200000.0,170000.0,RUB,"Linux, Qt, C++",Not specified,Software Development,2026-05-11 17:55:03
+Habr,habr_1000163829,Разработчик на Java в команду B2B-платформы Яндекс 360,Яндекс,Санкт-Петербург,True,,,,RUB,"Java, PostgreSQL",Not specified,Software Development,2026-05-11 17:55:03
+Habr,habr_1000166278,Старший инженер AppSec,WMX,Москва,False,,,,RUB,Linux,Not specified,Other IT,2026-05-11 17:55:03
+Habr,habr_1000163215,DevSecOps инженер (DevOps),ИТ-компания «Лоция»,Москва,True,,,,RUB,Linux,Not specified,DevOps,2026-05-11 17:55:03
+Habr,habr_1000166269,Senior Rendering engineer C++ в 3D Карту,2GIS,Не указан,True,,,,RUB,"OpenGL, DirectX, C++",Senior,Software Development,2026-05-11 17:55:03
+Habr,habr_1000161071,ИТ Лид команды разработки (java),ИТ-Холдинг Т1,Нижний Новгород,True,,,,RUB,"Java, Управление людьми, Управление разработкой, Планирование, Построение команды",Not specified,Software Development,2026-05-11 17:55:06
+Habr,habr_1000165362,MLOps Engineer,Aston,Не указан,True,,,,RUB,LLM,Not specified,Other IT,2026-05-11 17:55:06
+Habr,habr_1000166326,"Fullstack-разработчик (Go, Java, React)",МегаФон,Москва,True,,,,RUB,"React, Golang, Java",Not specified,Software Development,2026-05-11 17:55:06
+Habr,habr_1000159161,Тимлид сетевого отдела,Группа Астра,Москва,True,,,,RUB,"Защита от DDOS, Разработка систем защиты информации",Not specified,Other IT,2026-05-11 17:55:06
+Habr,habr_1000166379,QA Automation / SDET [TypeScript],"Спортс""",Не указан,True,,,,RUB,"TypeScript, Playwright, CI/CD, Docker, SQL",Not specified,QA,2026-05-11 17:55:06
+Habr,habr_1000166261,Программист C++ (NGFW),ИнфоТеКС,Уфа,False,,,,RUB,"Linux, NGFW, C++",Not specified,Software Development,2026-05-11 17:55:06
+Habr,habr_1000165292,Системный инженер (SIEM),ЛАНИТ,Не указан,True,,,,RUB,"Linux, Администрирование Windows, SIEM, Безопасность сетей, Active directory",Not specified,Other IT,2026-05-11 17:55:06
+Habr,habr_1000165330,DevSecOps специалист,Совкомбанк Технологии,Новосибирск,False,,,,RUB,"CI/CD, DevSecOps, Информационная безопасность",Not specified,Other IT,2026-05-11 17:55:06
+Habr,habr_1000165964,Инженер внедрения систем мониторинга ИБ,ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,,,RUB,"NGFW, Linux, SIEM, SQL, Active directory",Not specified,Other IT,2026-05-11 17:55:06
+Habr,habr_1000166172,Senior CV разработчик,2GIS,Москва,True,,,,RUB,"Компьютерное зрение, Deep Learning, PyTorch, Computer Science",Senior,Software Development,2026-05-11 17:55:06
+Habr,habr_1000165802,Разработчик C++,SimbirSoft,Не указан,True,,,,RUB,"C++, Linux",Not specified,Software Development,2026-05-11 17:55:06
+Habr,habr_1000166367,Data Engineer,М Тех,Не указан,True,,,,RUB,"ClickHouse, Greenplum, Apache Airflow, Apache Spark, ETL",Not specified,Data Engineering,2026-05-11 17:55:06
+Habr,habr_1000163567,SDET Java,SimbirSoft,Не указан,True,,,,RUB,"Java, Spring Boot, Junit, Selenium",Not specified,Software Development,2026-05-11 17:55:06
+Habr,habr_1000129519,Разработчик C# (.NET),Action tech,Не указан,True,,,,RUB,"Microsoft SQL, ООП, Entity framework, RabbitMQ, .NET",Not specified,Software Development,2026-05-11 17:55:06
+Habr,habr_1000165612,Java Developer,ITK academy,Казань,True,75000.0,,75000.0,RUB,"Java, Kotlin, Git, Docker, Java Spring Framework",Not specified,Software Development,2026-05-11 17:55:06
+Habr,habr_1000161573,Стажер java разработчик,Банк России,Томск,False,,,,RUB,"Java, Java Spring Framework",Junior,Software Development,2026-05-11 17:55:06
+Habr,habr_1000161187,Java разработчик,ИТ-Холдинг Т1,Новосибирск,True,,,,RUB,"Java, Java Spring Framework, Spring Boot, Apache Kafka, PostgreSQL",Not specified,Software Development,2026-05-11 17:55:06
+Habr,habr_1000166280,C++ red team developer,СПЕЦПО,Санкт-Петербург,True,230000.0,350000.0,290000.0,RUB,"C#, C++, C, Assembler, LLVM",Not specified,Software Development,2026-05-11 17:55:06
+Habr,habr_1000166152,Full Stack Developer,ONTHELION,Москва,True,,,,RUB,"Python, REST, Docker, Kubernetes, Java",Not specified,Software Development,2026-05-11 17:55:06
+Habr,habr_1000133845,Middle/Middle+ SRE Engineer (Дальний Восток),TravelLine,Хабаровск,True,,,,RUB,"Powershell, Python, Jenkins, Kubernetes, CI/CD",Middle,DevOps,2026-05-11 17:55:06
+Habr,habr_1000160764,Продуктовый аналитик (Рекомендации в Поиск),Wildberries & Russ,Москва,True,,,,RUB,"SQL, PostgreSQL, Python, ClickHouse, Greenplum",Not specified,Other IT,2026-05-11 17:55:06
+Habr,habr_1000164815,Инженер по тестированию / QA engineer (Linux),МТ-Интеграция,Москва,True,,,,RUB,"Linux, Python, Perl, Виртуализация",Not specified,QA,2026-05-11 17:55:06
+Habr,habr_1000162421,Аналитик данных (Внутренний контроль),Wildberries & Russ,Москва,False,,,,RUB,"Python, SQL, PostgreSQL, ClickHouse, Apache Superset",Not specified,Data Analytics,2026-05-11 17:55:06
+Habr,habr_1000161696,Архитектор (Data/AI),СберЗдоровье,Москва,True,,,,RUB,"Python, DWH, ETL, Apache Airflow, Объектное хранилище S3",Not specified,Other IT,2026-05-11 17:55:06
+Habr,habr_1000166156,Разработчик рантайма в Алису,Яндекс,Москва,False,,,,RUB,"C++, Python",Not specified,Software Development,2026-05-11 17:55:06
+Habr,habr_1000165890,Разработчик на С++ в группу пешеходной и транспортной навигации,Яндекс,Нижний Новгород,False,,,,RUB,"C++, Python",Not specified,Software Development,2026-05-11 17:55:09
+Habr,habr_1000157732,Продуктовый аналитик (Департамент Медиа | ADS),Wildberries & Russ,Москва,True,,,,RUB,"SQL, Python, PostgreSQL, ClickHouse",Not specified,Other IT,2026-05-11 17:55:09
+Habr,habr_1000165117,Data Engineer/Дата инженер (ученик),Aston,Москва,True,90000.0,100000.0,95000.0,RUB,"Визуализация, NoSQL, SQL, Python, Agile",Not specified,Data Engineering,2026-05-11 17:55:09
+Habr,habr_1000165572,ML Engineer (NLP),Банк России,Москва,False,,,,RUB,"NLP, Docker, R, Apache Hadoop, Apache Airflow",Not specified,Data Science,2026-05-11 17:55:09
+Habr,habr_1000166161,QA Engineer (Next.js + NestJS),Fincasemarket,Не указан,True,200000.0,,200000.0,RUB,"NestJS, Next.js, REST, CI/CD, Docker",Not specified,QA,2026-05-11 17:55:09
+Habr,habr_1000166247,Backend Developer (Laravel),Creative Code,Не указан,True,,,,RUB,"Laravel, ClickHouse, AWS, Golang",Not specified,Software Development,2026-05-11 17:55:09
+Habr,habr_1000166253,QA - FullStack (TypeScript + Playwright),М Тех,Москва,True,,,,RUB,"TypeScript, Playwright",Not specified,Software Development,2026-05-11 17:55:09
+Habr,habr_1000165859,Разработчик 1С ERP (ГПХ),ИТ-компания «Лоция»,Москва,True,,,,RUB,"1C: ERP, Разработка под 1С",Not specified,Software Development,2026-05-11 17:55:09
+Habr,habr_1000161371,Системный аналитик,ИТ-Холдинг Т1,Москва,False,,,,RUB,Linux,Not specified,Other IT,2026-05-11 17:55:09
+Habr,habr_1000147285,Automation QA (Java),IRLIX,Не указан,True,,,,RUB,"Git, Java, Selenium, RESTful API, Jenkins",Not specified,Software Development,2026-05-11 17:55:09
+Habr,habr_1000146318,QA Engineer Mobile fullstack (Java),Альфа-Банк,Не указан,True,,,,RUB,"Java, PostgreSQL, Apache Kafka, SOAP, Selenide",Not specified,Software Development,2026-05-11 17:55:09
+Habr,habr_1000164916,Developer C++ (KSMG),Лаборатория Касперского,Не указан,True,,,,RUB,"Разработка программного обеспечения, C++",Not specified,Software Development,2026-05-11 17:55:09
+Habr,habr_1000166262,Fullstack QA (Mobile + Load),М Тех,Москва,True,,,,RUB,"Kotlin, Docker, Java, Нагрузочное тестирование, Apache JMeter",Not specified,Software Development,2026-05-11 17:55:09
+Habr,habr_1000165157,Web тестировщик (в офис),Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"REST, TestRail, SQL, Selenium",Not specified,QA,2026-05-11 17:55:09
+Habr,habr_1000164447,"Backend Developer (PHP, Yii2)",Студворк,Самара,True,150000.0,,150000.0,RUB,"PHP, Redis, PostgreSQL, Linux, RabbitMQ",Not specified,Software Development,2026-05-11 17:55:09
+Habr,habr_1000158318,Senior/Lead Frontend разработчик (React),РОСГОССТРАХ,Не указан,True,,,,RUB,"React, TypeScript, Webpack, MobX, Веб-разработка",Senior,Software Development,2026-05-11 17:55:09
+Habr,habr_1000161239,Системный аналитик НОБО,ИТ-Холдинг Т1,Не указан,True,,,,RUB,"REST, SQL, PostgreSQL, SOAP, JSON",Not specified,Other IT,2026-05-11 17:55:09
+Habr,habr_1000166393,Тестировщик ПО Manual QA,Unity Parent,Не указан,True,90000.0,120000.0,105000.0,RUB,"Git, SQL, Базы данных, CI/CD, REST",Not specified,QA,2026-05-11 17:55:09
+Habr,habr_1000166196,Ведущий системный аналитик,Лига Цифровой Экономики,Не указан,True,,,,RUB,"REST, RabbitMQ, Высоконагруженные системы, SQL, Apache Kafka",Not specified,Other IT,2026-05-11 17:55:09
+Habr,habr_1000166252,Инженер по автотестированию на Java,М Тех,Москва,True,,,,RUB,Java,Not specified,Software Development,2026-05-11 17:55:09
+Habr,habr_1000127243,Android Developer (Platform Team),СберЗдоровье,Не указан,True,,,,RUB,"Разработка мобильных приложений, Kotlin, Coroutines, Flow, Android SDK",Not specified,Software Development,2026-05-11 17:55:09
+Habr,habr_1000166243,Lead React,М Тех,Москва,True,,,,RUB,"React, Redux, TypeScript",Senior,Other IT,2026-05-11 17:55:09
+Habr,habr_1000166323,Программист Backend PHP на yii2 (Middle),Модимио,Ярославль,True,70000.0,90000.0,80000.0,RUB,"MySQL, Git, JavaScript, SQL, Vue.js",Middle,Software Development,2026-05-11 17:55:09
+Habr,habr_1000148160,PHP-разработчик,Гринсайт,Зеленоград,True,,,,RUB,"Redis, Laravel, PostgreSQL, Composer, MySQL",Not specified,Software Development,2026-05-11 17:55:09
+Habr,habr_1000166093,DevOps-администратор 1С (Junior+/Middle),Greenway Global,Новосибирск,False,90000.0,230000.0,160000.0,RUB,"SQL, Администрирование 1С, HTTP, RabbitMQ",Junior,DevOps,2026-05-11 17:55:12
+Habr,habr_1000166187,Technical support [Junior],deeplay,Омск,True,,,,RUB,"Linux, Администрирование Windows, Zabbix, Grafana",Junior,Other IT,2026-05-11 17:55:12
+Habr,habr_1000161196,Системный аналитик (со знанием кредитных процессов (Junior)),ИТ-Холдинг Т1,Новосибирск,True,,,,RUB,"SQL, Java, Apache Kafka",Junior,Other IT,2026-05-11 17:55:12
+Habr,habr_1000165298,Младший инженер ЦОД,Банк ВТБ,Санкт-Петербург,False,,,,RUB,"DHCP, DNS, Администрирование серверов, Администрирование оборудования Cisco, Техническая поддержка",Not specified,Other IT,2026-05-11 17:55:12
+Habr,habr_1000139801,Java Developer,ИТРУМ,Ростов-на-Дону,True,75000.0,,75000.0,RUB,"Git, Java, Spring Boot, Docker",Not specified,Software Development,2026-05-11 17:55:15
+Habr,habr_1000116161,"Разработчик JavaScript/NodeJS, специалист технической поддержки",A-Parser,Не указан,True,,,,RUB,"JavaScript, Node.js, TypeScript, LLM, Playwright",Not specified,Software Development,2026-05-11 17:55:15
+Habr,habr_1000166255,Разработчик Java,М Тех,Москва,True,,,,RUB,Java,Not specified,Software Development,2026-05-11 17:55:17
+Habr,habr_1000166366,Ведущий Java-разработчик,М Тех,Не указан,True,,,,RUB,"Java, Spring Boot, PostgreSQL, SQL, ClickHouse",Not specified,Software Development,2026-05-11 17:55:17
+Habr,habr_1000166285,Middle Java Developer,ИТРУМ,Ростов-на-Дону,False,150000.0,,150000.0,RUB,"Git, Java, PostgreSQL, Docker, REST",Middle,Software Development,2026-05-11 17:55:17
+Habr,habr_1000161198,Системный аналитик (со знанием кредитных процессов),ИТ-Холдинг Т1,Ростов-на-Дону,True,,,,RUB,"SQL, Java, Apache Kafka",Not specified,Other IT,2026-05-11 17:55:20
+Habr,habr_1000166338,Системный аналитик,ITK academy,Краснодар,True,75000.0,130000.0,102500.0,RUB,"REST, SQL, BPMN, UML, ER-диаграммы",Not specified,Other IT,2026-05-11 17:55:20
+Habr,habr_1000165193,Android разработчик / Kotlin developer,Hireway,Не указан,True,120000.0,180000.0,150000.0,RUB,"Kotlin, Git, Java, Android studio, Android SDK",Not specified,Software Development,2026-05-11 17:55:20
+Habr,habr_1000166370,Инженер поддержки MES систем,НЛМК ИТ,Липецк,True,,,,RUB,"SQL, Apache Kafka, PostgreSQL, Базы данных",Not specified,Other IT,2026-05-11 17:55:20
+Habr,habr_1000166122,1С Аналитик,Aston,Не указан,True,,,,RUB,"1C: ERP, Высоконагруженные системы",Not specified,Other IT,2026-05-11 17:55:23
+Habr,habr_1000164513,C/C++ Developer,Eltex,Новосибирск,False,,,,RUB,"Linux, C, C++",Not specified,Software Development,2026-05-11 17:55:26
+Habr,habr_1000166064,Технический архитектор 1с,OPEN group,Санкт-Петербург,True,400000.0,,400000.0,RUB,"Автоматизация процессов, 1C: ERP",Not specified,Other IT,2026-05-11 17:55:26
+Habr,habr_1000166349,Программист 1С middle+,1С: БИЗНЕС РЕШЕНИЯ,Не указан,True,130000.0,260000.0,195000.0,RUB,"Разработка под 1С, Разработка решений по интеграции, JSON, Анализ требований, XML",Middle,Software Development,2026-05-11 17:55:29
+Habr,habr_1000166307,Финансовый аналитик,ИП Титов Михаил Юрьевич,Ростов-на-Дону,True,100000.0,,100000.0,RUB,"SQL, Базы данных, Алгоритмы и структуры данных, Прикладная математика, Большие данные",Not specified,Other IT,2026-05-11 17:55:29
+Habr,habr_1000165961,Инженер по анализу защищенности инфраструктуры (анализ уязвимостей),ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,,,RUB,"Информационная безопасность, Системное администрирование, Администрирование Linux, Powershell, Анализ угроз",Not specified,Other IT,2026-05-11 17:55:29
+Habr,habr_1000166174,DevOps - инженер | Dev Ops engineer,Hireway,Не указан,True,70000.0,100000.0,85000.0,RUB,DevOps,Not specified,DevOps,2026-05-11 17:55:29
+Habr,habr_1000149993,Erlang/Elixir developer,Eltex,Новосибирск,False,,,,RUB,"Erlang, NoSQL, SQL, Linux, Docker",Not specified,Software Development,2026-05-11 17:55:29
+Habr,habr_1000157114,Выездной инженер технической поддержки,ИТ-Холдинг Т1,Санкт-Петербург,False,62000.0,70000.0,66000.0,RUB,"Администрирование Windows, Linux, Ремонт и обслуживание ПК, Настройка и наладка оборудования, Установка и обслуживание офисной техники",Not specified,Other IT,2026-05-11 17:55:29
+Habr,habr_1000157161,Специалист технической поддержки (первая линия),ИТ-Холдинг Т1,Самара,False,,,,RUB,Техническая поддержка,Not specified,Other IT,2026-05-11 17:55:29
+Habr,habr_1000161387,Сетевой инженер,ИТ-Холдинг Т1,Москва,False,,,,RUB,"BGP, OSPF",Not specified,Other IT,2026-05-11 17:55:29
+Habr,habr_1000165853,Аналитик,ЛАНИТ,Москва,False,,,,RUB,"ГОСТ, Базы данных, PostgreSQL, BPMN, UML",Not specified,Other IT,2026-05-11 17:55:29
+Habr,habr_1000161173,Java  разработчик,ИТ-Холдинг Т1,Краснодар,True,,,,RUB,"Java, Docker, PostgreSQL, Hibernate, Spring Boot",Not specified,Software Development,2026-05-11 17:55:29
+Habr,habr_1000165252,Инженер технической поддержки в г. Краснодар,ИТ-Холдинг Т1,Краснодар,False,,,,RUB,Системное администрирование,Not specified,Other IT,2026-05-11 17:55:29
+Habr,habr_1000166137,"Инженер технической поддержки (Удаленно, любая локация, облачные сервисы)",CleanTalk,Не указан,True,,,,RUB,"WordPress, Английский язык, Техническая поддержка",Not specified,Other IT,2026-05-11 17:55:29
+Habr,habr_1000166399,1С Программист (Middle / Middle+),Greenway Global,Не указан,True,150000.0,,150000.0,RUB,"1C: ERP, Git, CI/CD",Middle,Software Development,2026-05-11 17:55:32
+Habr,habr_1000163035,Devops-engineer (middle/middle+),IRLIX,Не указан,True,,,,RUB,"Docker, Kubernetes, CI/CD, Linux, Сетевые технологии",Middle,DevOps,2026-05-11 17:55:32
+Habr,habr_1000165051,Разработчик 1С (Middle),Анонимный работодатель,Рязань,True,,,,RUB,Разработка под 1С,Middle,Software Development,2026-05-11 17:55:32
+Habr,habr_1000078847,Middle+ IOS developer,IRLIX,Не указан,True,,,,RUB,"Разработка мобильных приложений, Разработка под iOS, UIKit, Clean Architecture, CI/CD",Middle,Software Development,2026-05-11 17:55:35
+Habr,habr_1000166178,"Системный администратор (Middle, в офис г. Йошкар-Ола)",TravelLine,Йошкар-Ола,False,,,,RUB,"MySQL, Asterisk, Active directory, DNS, Системное администрирование",Middle,Other IT,2026-05-11 17:55:35
+Habr,habr_1000164618,Middle+ Java Backend Developer,IRLIX,Не указан,True,,,,RUB,Java,Middle,Software Development,2026-05-11 17:55:35
+Habr,habr_1000166251,Devops - инженер (middle/senior),М Тех,Москва,True,,,,RUB,GitLab,Senior,DevOps,2026-05-11 17:55:35
+Habr,habr_1000165607,Middle/Senior DevOps Engineer [МТС Веб Сервисы],МТС Web Services,Москва,False,,,,RUB,"Kubernetes, Terraform",Senior,DevOps,2026-05-11 17:55:35
+Habr,habr_1000166333,SEO-специалист / Middle+ / Senior SEO в Finandy,Finandy,Не указан,True,,,,RUB,"Разработка SEO-стратегии, SEO-оптимизация, SEO-аудит сайтов, Google Analytics, Google Search Console",Senior,Other IT,2026-05-11 17:55:39
+Habr,habr_1000166369,Старший инженер поддержки MES систем,НЛМК ИТ,Липецк,True,,,,RUB,"SQL, Apache Kafka, PostgreSQL, Базы данных",Not specified,Other IT,2026-05-11 17:55:39
+Habr,habr_1000166387,Unity-разработчик (WebGL),Empire's Battle,Не указан,True,,,,RUB,"C#, ООП, Алгоритмы и структуры данных, REST",Not specified,Software Development,2026-05-11 17:55:41
+Habr,habr_1000166382,Fullstack Software Engineer,Tinkers,Не указан,True,,,,RUB,"Git, PostgreSQL, Docker, React, JavaScript",Not specified,Software Development,2026-05-11 17:55:41
+Habr,habr_1000166163,"Backend Developer (PHP, Laravel)",Lenkep Recruitment,Москва,False,,,,RUB,Laravel,Not specified,Software Development,2026-05-11 17:55:41
+Habr,habr_1000163309,Product Manager,МегаФон,Москва,False,,,,RUB,"Управление продуктами, Разработка продуктовой стратегии, A/B тестирование",Not specified,Other IT,2026-05-11 17:55:41
+Habr,habr_1000149857,C developer (ME),Eltex,Новосибирск,False,,,,RUB,"C, Linux",Not specified,Software Development,2026-05-11 17:55:41
+Habr,habr_1000156497,IOS-разработчик в Маркетплейс,Wildberries & Russ,Не указан,True,,,,RUB,"Swift, UIKit, Google Firebase, Realm, Разработка под iOS",Not specified,Software Development,2026-05-11 17:55:41
+Habr,habr_1000165394,"Инженер по обслуживанию систем безопасности, видеонаблюдения и СОТ",НАО «Красная Поляна»,Сочи,False,,70000.0,70000.0,RUB,Техническая поддержка,Not specified,Other IT,2026-05-11 17:55:44
+Habr,habr_1000165673,Java-разработчик,deeplay,Омск,False,,,,RUB,"gRPC, Java, SQL, PostgreSQL",Not specified,Software Development,2026-05-11 17:55:44
+Habr,habr_1000165066,Менеджер по продажам / Аккаунт менеджер,Анонимный работодатель,Пенза,False,,,,RUB,Ведение переговоров,Not specified,Other IT,2026-05-11 17:55:46
+Habr,habr_1000165206,Системный администратор выездной,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"Linux, Mikrotik",Not specified,Other IT,2026-05-11 17:55:46
+Habr,habr_1000165034,Разработчик 1С,Анонимный работодатель,Самара,False,,,,RUB,Разработка под 1С,Not specified,Software Development,2026-05-11 17:55:46
+Habr,habr_1000166318,Прикладной администратор,ИТ-Холдинг Т1,Самара,False,,,,RUB,Linux,Not specified,Other IT,2026-05-11 17:55:46
+Habr,habr_1000161368,Координатор заявок service desk,ИТ-Холдинг Т1,Самара,False,45000.0,45000.0,45000.0,RUB,Техническая поддержка,Not specified,Other IT,2026-05-11 17:55:46
+Habr,habr_1000158010,Frontend-разработчик (React),Wildberries & Russ,Москва,True,,,,RUB,"JavaScript, React",Not specified,Software Development,2026-05-11 17:55:49
+Habr,habr_1000165140,Инженер сервиса,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,Техническая документация,Not specified,Other IT,2026-05-11 17:55:49
+Habr,habr_1000165132,Инженер 2-й линии технической поддержки,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"Техническая поддержка, Zabbix, Linux, SQL",Not specified,Other IT,2026-05-11 17:55:49
+Habr,habr_1000156496,Android-разработчик в Маркетплейс,Wildberries & Russ,Не указан,True,,,,RUB,"Kotlin, Jetpack Compose, MVVM, Room, Coroutines",Not specified,Software Development,2026-05-11 17:55:49
+Habr,habr_1000164481,Ведущий менеджер по продажам IT аутсорса,RedLab,Москва,True,,,,RUB,Ведение переговоров,Not specified,Other IT,2026-05-11 17:55:49
+Habr,habr_1000165163,Инженер по испытаниям и метрологии РЭА,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,ГОСТ,Not specified,Other IT,2026-05-11 17:55:49
+Habr,habr_1000166401,Senior Java Developer,Arenadata,Не указан,True,,,,RUB,"Java, Spring Boot, PostgreSQL, Базы данных, Apache Maven",Senior,Software Development,2026-05-11 17:55:53
+Habr,habr_1000165374,Старший Go/PHP-разработчик в команду Cообществ,VK,Не указан,True,,,,RUB,"PHP, Golang",Not specified,Software Development,2026-05-11 17:55:56
+Habr,habr_1000157520,Senior Site Reliability Engineer (SRE),TravelLine,Казань,True,,,,RUB,"Zabbix, Grafana, Prometheus, Ansible, Мониторинг",Senior,DevOps,2026-05-11 17:55:56
+Habr,habr_1000163193,Старший Data Engineer,Cloud.ru,Москва,True,,,,RUB,SQL,Not specified,Data Engineering,2026-05-11 17:55:56
+Habr,habr_1000165320,Старший аналитик по направлению внутренних расследований ИБ,Совкомбанк Технологии,Краснодар,False,,,,RUB,"SIEM, Форензика",Not specified,Other IT,2026-05-11 17:55:56
+Habr,habr_1000165156,Senior Computer Vision Engineer,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"FPGA, OpenCV, C++, C",Senior,Other IT,2026-05-11 17:55:56
+Habr,habr_1000163093,Старший инженер OpenStack,Cloud.ru,Москва,False,,,,RUB,Linux,Not specified,Other IT,2026-05-11 17:55:56
+Habr,habr_1000161455,Старший разработчик на С++ в Яндекс Браузер,Яндекс,Москва,False,,,,RUB,"C++, Алгоритмы и структуры данных, Linux, C++ stl, Библиотека стандартных шаблонов",Not specified,Software Development,2026-05-11 17:55:56
+Habr,habr_1000166281,Старший инженер - программист 1С,Авиакомпания «Победа»,Москва,False,,,,RUB,Разработка под 1С,Not specified,Software Development,2026-05-11 17:55:56
+Habr,habr_1000166268,Старший бизнес-аналитик,IT_One,Москва,False,,,,RUB,Oracle,Not specified,Other IT,2026-05-11 17:55:56
+Habr,habr_1000163153,Senior IOS-разработчик,Экосистема тенниса,Не указан,True,350000.0,,350000.0,RUB,"Swift, UIKit, Xcode, Clean Architecture, GCD",Senior,Software Development,2026-05-11 17:55:59
+Habr,habr_1000163154,Senior Android-разработчик,Экосистема тенниса,Не указан,True,350000.0,,350000.0,RUB,"Разработка под Android, Kotlin, Разработка мобильных приложений, Android SDK, MVVM",Senior,Software Development,2026-05-11 17:55:59
+Habr,habr_1000161584,Старший разработчик Golang,МегаФон,Москва,True,,,,RUB,"gRPC, Golang, NATS, Apache Kafka",Not specified,Software Development,2026-05-11 17:55:59
+Habr,habr_1000165893,Системный Android разработчик [Senior],deeplay,Не указан,True,,,,RUB,Разработка под Android,Senior,Software Development,2026-05-11 17:55:59
+Habr,habr_1000166284,Senior DevOps-инженер на проект банка (система распознавания документов),Юзтех,Не указан,True,,,,RUB,"Docker, PostgreSQL, Базы данных, MySQL, Linux",Senior,DevOps,2026-05-11 17:55:59
+Habr,habr_1000166230,Аналитик данных (Senior Data Analyst),ЛАНИТ,Не указан,True,,,,RUB,"SQL, ETL, DWH, PowerBI",Senior,Data Analytics,2026-05-11 17:55:59
+Habr,habr_1000165032,Старший системный администратор/TeamLead,Анонимный работодатель,Москва,False,,,,RUB,"Linux, Active directory",Senior,Other IT,2026-05-11 17:56:01
+Habr,habr_1000153848,QA инженер (Linux),Marfatech,Москва,True,,,,RUB,"Linux, REST, SQL",Not specified,QA,2026-05-11 17:56:01
+Habr,habr_1000142646,Старший инженер-программист C (ядра Linux) ОС Astra Linux,Группа Астра,Москва,True,,,,RUB,"C, Linux, Linux kernel, Системное программирование, Информационная безопасность",Not specified,Software Development,2026-05-11 17:56:01
+Habr,habr_1000163192,SRE-инженер,Cloud.ru,Москва,True,,,,RUB,SQL,Not specified,DevOps,2026-05-11 17:56:01
+Habr,habr_1000166249,Pentester,СПЕЦПО,Санкт-Петербург,True,150000.0,250000.0,200000.0,RUB,"Git, PostgreSQL, Linux, C++",Not specified,QA,2026-05-11 17:56:01
+Habr,habr_1000165214,Fullstack разработчик (PHP),Анонимный работодатель,Москва,True,,,,RUB,"Git, MySQL, JavaScript, SQL, Symfony",Not specified,Software Development,2026-05-11 17:56:01
+Habr,habr_1000166373,Тимлид команды автоматизированного тестирования (JS Playwright),Смарт Горизонт,Не указан,True,,,,RUB,"TypeScript, JavaScript, Playwright",Not specified,Other IT,2026-05-11 17:56:05
+Habr,habr_1000166292,Project Manager / Специалист по внедрению AI-менеджеров (удалённо),Leadhero,Москва,True,70000.0,150000.0,110000.0,RUB,"LLM, Создание чат-ботов, Создание telegram-ботов, Лидогенерация, B2B",Not specified,Other IT,2026-05-11 17:56:05
+Habr,habr_1000165067,Начинающий специалист 1С (первая линия поддержки),Анонимный работодатель,Рязань,False,,,,RUB,Ведение переговоров,Not specified,Other IT,2026-05-11 17:56:05
+Habr,habr_1000165212,Системный/Бизнес аналитик 1С,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,Системный анализ,Not specified,Other IT,2026-05-11 17:56:11
+Habr,habr_1000145180,Fullstack JavaScript разработчик,MakeDifference,Не указан,True,70000.0,100000.0,85000.0,RUB,"JavaScript, React, TypeScript, Node.js, Next.js",Not specified,Software Development,2026-05-11 17:56:13
+Habr,habr_1000164014,"Frontend-разработчик (vanilla JS, high-load)",Karma8,Не указан,True,200000.0,,200000.0,RUB,"JavaScript, JQuery, HTML, CSS, Git",Not specified,Software Development,2026-05-11 17:56:13
+Habr,habr_1000166181,Frontend-разработчик,Банк России,Санкт-Петербург,False,,,,RUB,"JavaScript, TypeScript, React, Angular, HTML",Not specified,Software Development,2026-05-11 17:56:13
+Habr,habr_1000080118,Frontend-разработчик React,Т-Банк,Екатеринбург,False,,,,RUB,"React, JavaScript",Not specified,Software Development,2026-05-11 17:56:13
+Habr,habr_1000166149,"Веб-программист (Fullstack разработчик, г. Ижевск офлайн)",АО «Ижевский радиозавод»,Ижевск,False,100000.0,,100000.0,RUB,"Linux, Node.js, TypeScript, PostgreSQL, REST",Not specified,Software Development,2026-05-11 17:56:13
+Habr,habr_1000151615,Разработчик Node.js,X5 Digital,Москва,True,,,,RUB,"Node.js, TypeScript, JavaScript, MongoDB, Apache Kafka",Not specified,Software Development,2026-05-11 17:56:13
+Habr,habr_1000156020,QA Automation Engineer (JavaScript/TypeScript),X5 Digital,Москва,False,,,,RUB,"Node.js, REST, JavaScript, Модульное тестирование, HTTP",Not specified,Software Development,2026-05-11 17:56:13
+Habr,habr_1000165221,Shader Developer,Clideo,Не указан,True,,,,RUB,"JavaScript, Vue.js",Not specified,Software Development,2026-05-11 17:56:13
+Habr,habr_1000166390,Технический писатель,WebSoft,Санкт-Петербург,True,,,,RUB,"JavaScript, C#, Техническая документация",Not specified,Other IT,2026-05-11 17:56:13
+Habr,habr_1000162215,Стажер Frontend-разработчик (React),PREAX,Не указан,True,,,,RUB,"CSS, TypeScript, JavaScript, Git, HTML",Junior,Software Development,2026-05-11 17:56:13
+Habr,habr_1000164868,Fullstack-разработчик (REACT+JAVA),Банк России,Санкт-Петербург,False,,,,RUB,"Java, React, Node.js, Angular, Junit",Not specified,Software Development,2026-05-11 17:56:13
+Habr,habr_1000153542,Reverse engineer,deeplay,Москва,True,,,,RUB,"Linux, Frida, Ghidra, Wireshark",Not specified,Other IT,2026-05-11 17:56:13
+Habr,habr_1000166226,Fullstack Developer (MERN / NestJS),Creative Code,Не указан,True,,,,RUB,"Node.js, React, Next.js, TDD/BDD, DDD",Not specified,Software Development,2026-05-11 17:56:17
+Habr,habr_1000166301,PHP и Node.js разработчик,TripShock Adventures,Не указан,True,,,,RUB,"MySQL, PHP, Node.js, NoSQL, Git",Not specified,Software Development,2026-05-11 17:56:17
+Habr,habr_1000061315,Fullstack PHP Laravel/VueJS разработчик,Emsoft,Не указан,True,,150000.0,150000.0,RUB,"PHP, Laravel, Vue.js, Nuxt.js, MySQL",Not specified,Software Development,2026-05-11 17:56:17
+Habr,habr_1000166336,VibeCoder / Platform Engineer (Node.js / Kubernetes),Fabrique,Москва,True,,220000.0,220000.0,RUB,"Git, Docker, PostgreSQL, Node.js, Kubernetes",Not specified,DevOps,2026-05-11 17:56:17
+Habr,habr_1000139185,Руководитель группы разработки (backend Node.js),X5 Digital,Москва,True,,,,RUB,"Node.js, MongoDB, Redis, RabbitMQ, ClickHouse",Not specified,Software Development,2026-05-11 17:56:17
+Habr,habr_1000166380,Founding Full-Stack Engineer (React / React Native / Node.js),"ООО ""Стримрекорд""",Москва,True,,,,RUB,"React, React Native, Node.js, Google Firebase, Разработка мобильных приложений",Not specified,Other IT,2026-05-11 17:56:17
+Habr,habr_1000136672,"Fullstack-разработчик (PHP, vue.js)",Fix Price,Москва,False,,,,RUB,"PHP, HTML, SQL, Linux, Docker",Not specified,Software Development,2026-05-11 17:56:17
+Habr,habr_1000166316,Technical Lead (CTO),Экосистема тенниса,Москва,True,500000.0,,500000.0,RUB,"Kotlin, Swift, PHP, Vue.js",Senior,Other IT,2026-05-11 17:56:17
+Habr,habr_1000166283,Frontend-разработчик на Angular,ИнфоТеКС,Томск,False,,,,RUB,"Angular, TypeScript, HTML, CSS, REST",Not specified,Software Development,2026-05-11 17:56:17
+Habr,habr_1000162419,DevSecOps/AppSec,ИТ-компания «Лоция»,Не указан,True,,,,RUB,"SAST/DAST, Linux, CI/CD, Kubernetes, Docker",Not specified,Other IT,2026-05-11 17:56:20
+Habr,habr_1000166319,DevOps Engineer/DevOps-инженер,ZennoLab,Нижний Новгород,False,150000.0,,150000.0,RUB,"Linux, Docker, Kubernetes, CI/CD, GitLab",Not specified,DevOps,2026-05-11 17:56:20
+Habr,habr_1000165914,Системный аналитик,Банк России,Томск,False,,,,RUB,"SQL, Системный анализ, BPMN",Not specified,Other IT,2026-05-11 17:56:20
+Habr,habr_1000165267,AppSec-инженер,Банк России,Екатеринбург,False,,,,RUB,SAST/DAST,Not specified,Other IT,2026-05-11 17:56:20
+Habr,habr_1000166228,Head of Engineering,AlemX,Не указан,True,400000.0,450000.0,425000.0,RUB,"CI/CD, Git, Английский язык, Управление проектами, Docker",Not specified,Other IT,2026-05-11 17:56:20
+Habr,habr_1000166232,Разработчик интерфейсов в Видеоплеер,Яндекс,Москва,False,,,,RUB,"React, TypeScript",Not specified,Software Development,2026-05-11 17:56:23
+Habr,habr_1000165913,Инженер по автоматизации тестирования java,Банк России,Томск,False,,,,RUB,"Функциональное тестирование, Java, Apache Maven, Junit, Selenium",Not specified,Software Development,2026-05-11 17:56:29
+Habr,habr_1000166182,Инженер по автоматизации тестирования (Java),Банк России,Казань,False,,,,RUB,"Java, Тестирование UI, Selenide, JDBC, SQL",Not specified,Software Development,2026-05-11 17:56:29
+Habr,habr_1000163599,QA Engineer Fullstack (Java/Kotlin),SimbirSoft,Не указан,True,,,,RUB,"Java, Kotlin, Junit, TestNG, REST Assured",Not specified,Software Development,2026-05-11 17:56:29
+Habr,habr_1000136036,SDET QA инженер (Java auto),Банк России,Санкт-Петербург,False,,,,RUB,"ООП, Git, Java, Selenium, SQL",Not specified,Software Development,2026-05-11 17:56:29
+Habr,habr_1000160388,Инженер по тестированию (ОС Astra Linux),Группа Астра,Москва,False,,,,RUB,"Linux, Bash, Ручное тестирование",Not specified,Other IT,2026-05-11 17:56:29
+Habr,habr_1000165158,Руководитель отдела тестирования,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,TestRail,Not specified,Other IT,2026-05-11 17:56:29
+Habr,habr_1000152136,Java разработчик,Т-Банк,Не указан,True,,,,RUB,"Java, Spring Boot, Apache Kafka, PostgreSQL, Docker",Not specified,Software Development,2026-05-11 17:56:29
+Habr,habr_1000165831,Java-разработчик,SimbirSoft,Не указан,True,,,,RUB,"Java, Spring Boot, Apache Kafka, Apache Maven, Kubernetes",Not specified,Software Development,2026-05-11 17:56:29
+Habr,habr_1000165768,Java-разработчик,БФТ - Холдинг,Москва,True,,,,RUB,"Spring Boot, Java, PostgreSQL, Apache Kafka",Not specified,Software Development,2026-05-11 17:56:29
+Habr,habr_1000161257,Java разработчик (СОПББ),ИТ-Холдинг Т1,Екатеринбург,True,,,,RUB,Java,Not specified,Software Development,2026-05-11 17:56:32
+Habr,habr_1000161258,Java Developer eFX,ИТ-Холдинг Т1,Ижевск,False,,,,RUB,"ООП, Java",Not specified,Software Development,2026-05-11 17:56:32
+Habr,habr_1000166342,Инженер по тестированию Платформа Android,Онлайн-кинотеатр Иви,Москва,False,,,,RUB,"Git, SQL, Тестирование ПО, Android studio, Клиент-серверные приложения",Not specified,Other IT,2026-05-11 17:56:32
+Habr,habr_1000165674,Разработчик на Java/Kotlin в Финтех Яндекса,Яндекс,Санкт-Петербург,True,,,,RUB,"Java, Apache Kafka, PostgreSQL, Kubernetes, Redis",Not specified,Software Development,2026-05-11 17:56:32
+Habr,habr_1000165967,Специалист по тестированию систем искусственного интеллекта,ГАЗИНФОРМСЕРВИС,Санкт-Петербург,True,,,,RUB,"OWASP, Тестирование на проникновение",Not specified,Other IT,2026-05-11 17:56:32
+Habr,habr_1000165965,Инженер по анализу защищенности инфраструктуры (тестирование на проникновение),ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,,,RUB,"PCI DSS, Тестирование на проникновение, OWASP",Not specified,Other IT,2026-05-11 17:56:35
+Habr,habr_1000143458,DevOps инженер [Kubernetes],deeplay,Не указан,True,,,,RUB,"Kubernetes, Terraform, Ansible, Linux, Docker",Not specified,DevOps,2026-05-11 17:56:35
+Habr,habr_1000155969,Стажер-тестировщик,Банк России,Томск,False,,,,RUB,Тестирование ПО,Junior,QA,2026-05-11 17:56:35
+Habr,habr_1000160947,QA Fullstack (C#),Bell Integrator,Минск,True,,,,RUB,"C#, Автоматизация тестирования, Ручное тестирование",Not specified,Software Development,2026-05-11 17:56:35
+Habr,habr_1000166286,"QA Engineer (Спб, офис)",Bell Integrator,Санкт-Петербург,False,,,,RUB,"SQL, Ручное тестирование",Not specified,QA,2026-05-11 17:56:35
+Habr,habr_1000161557,Начальник отдела автотестирования,Банк России,Санкт-Петербург,False,,,,RUB,"SQL, Selenium, Java, Selenide, Автоматизация тестирования",Not specified,Other IT,2026-05-11 17:56:35
+Habr,habr_1000164694,Scala Developer,МегаФон,Москва,True,,,,RUB,"Scala, Apache Spark, Java, Akka, Spring Boot",Not specified,Software Development,2026-05-11 17:56:35
+Habr,habr_1000166381,Руководитель команды разработки в ОК,VK,Санкт-Петербург,False,,,,RUB,Java,Not specified,Other IT,2026-05-11 17:56:38
+Habr,habr_1000166400,"Разработчик Hadoop (Мск, Спб, Сочи, Нижний Новгород)",Bell Integrator,Нижний Новгород,True,,,,RUB,"Java, Apache Hadoop, Apache Kafka",Not specified,Software Development,2026-05-11 17:56:38
+Habr,habr_1000165585,Главный инженер по качеству (QA-инженер),Банк России,Москва,False,,,,RUB,"Функциональное тестирование, Контроль качества, Camunda, Microsoft Visio, Описание бизнес-процессов",Not specified,QA,2026-05-11 17:56:38
+Habr,habr_1000163521,DevOps-инженер,МегаФон,Москва,True,,,,RUB,"Kubernetes, Docker, Linux, PostgreSQL, CI/CD",Not specified,DevOps,2026-05-11 17:56:38
+Habr,habr_1000164660,Cистемный аналитик / System analyst (инвестиционный бизнес),ИТ-Холдинг Т1,Екатеринбург,True,,,,RUB,"SQL, Apache Kafka, XML, JSON, PostgreSQL",Not specified,Data Analytics,2026-05-11 17:56:38
+Habr,habr_1000166288,"Team Lead Go (Golang, продукты для управления инфраструктурой и PKI (TLS/ГОСТ)",Netwrk,Москва,True,450000.0,600000.0,525000.0,RUB,"Golang, PostgreSQL, Kubernetes, ClickHouse, Apache Kafka",Senior,Other IT,2026-05-11 17:56:38
+Habr,habr_1000165998,Специалист по инфраструктуре машинного обучения (MLOps-инженер ),ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,,,RUB,"DevOps, Docker, Git, ClickHouse, Kubernetes",Not specified,Other IT,2026-05-11 17:56:38
+Habr,habr_1000166138,Linux администратор Nginx/Apache,Spice IT,Москва,False,,,,RUB,"VMware, Linux, MySQL, Kubernetes, Apache",Not specified,Other IT,2026-05-11 17:56:38
+Habr,habr_1000164813,Системный аналитик (Виртуализация),МТ-Интеграция,Москва,True,,,,RUB,"Openstack, Terraform, GitLab, Docker, Ansible",Not specified,Other IT,2026-05-11 17:56:40
+Habr,habr_1000161238,Системный аналитик ТОСБО,ИТ-Холдинг Т1,Не указан,True,,,,RUB,"REST, SOAP, JSON, Apache Kafka, SQL",Not specified,Other IT,2026-05-11 17:56:40
+Habr,habr_1000165915,Руководитель группы DevOps,Банк России,Томск,False,,,,RUB,"DevOps, Centos, Linux, GitLab, PostgreSQL",Not specified,DevOps,2026-05-11 17:56:40
+Habr,habr_1000162432,MLOps Engineer [Trust and Safety],Wildberries & Russ,Москва,True,,,,RUB,"Kubernetes, Docker, CI/CD",Not specified,Other IT,2026-05-11 17:56:40
+Habr,habr_1000165597,Technical Training Developer (SIEM/XDR),Лаборатория Касперского,Не указан,True,,,,RUB,Информационная безопасность,Not specified,Software Development,2026-05-11 17:56:40
+Habr,habr_1000164586,Архитектор BPMSoft,АстраЗенека,Москва,False,,,,RUB,"GitLab, Docker, Kubernetes, UML",Not specified,Other IT,2026-05-11 17:56:40
+Habr,habr_1000164826,DevSecOps инженер (SOC),ИТ-компания «Лоция»,Москва,True,,,,RUB,"Linux, Docker, Kubernetes",Not specified,Other IT,2026-05-11 17:56:40
+Habr,habr_1000164611,Project Manager (BigData),МегаФон,Не указан,True,,,,RUB,"LLM, Управление продуктами, A/B тестирование",Not specified,Other IT,2026-05-11 17:56:40
+Habr,habr_1000161326,Технический руководитель/Technical Lead(государственная информационная система),ЛАНИТ,Москва,False,,400000.0,400000.0,RUB,"Java, Apache Kafka, PostgreSQL, Linux, Высоконагруженные системы",Senior,Other IT,2026-05-11 17:56:40
+Habr,habr_1000099903,Android/Kotlin разработчик (частичная занятость),pintBOOL,Не указан,True,150000.0,,150000.0,RUB,"Kotlin, Java, Разработка мобильных приложений, Android studio, Разработка под Android",Not specified,Software Development,2026-05-11 17:56:40
+Habr,habr_1000166233,Разработчик Ruby,ПСБ цифровая лаборатория,Москва,True,200000.0,,200000.0,RUB,"Ruby, Ruby on Rails, PostgreSQL, Git, NoSQL",Not specified,Software Development,2026-05-11 17:56:40
+Habr,habr_1000165649,Системный аналитик (банковские продукты),ПСБ цифровая лаборатория,Самара,False,,,,RUB,"SOAP, REST, JSON, XML, SQL",Not specified,Other IT,2026-05-11 17:56:40
+Habr,habr_1000166279,MLOps,Лаборатория Касперского,Не указан,True,,,,RUB,Информационная безопасность,Not specified,Other IT,2026-05-11 17:56:43
+Habr,habr_1000164714,Golang developer (Рассрочки),Wildberries & Russ,Москва,True,,,,RUB,"PostgreSQL, Linux, Kubernetes, Golang, Redis",Not specified,Software Development,2026-05-11 17:56:43
+Habr,habr_1000161235,Системный аналитик в команду демо-стендов и пилотов,ИТ-Холдинг Т1,Не указан,True,,,,RUB,"REST, SOAP, UML, BPMN, JSON",Not specified,Other IT,2026-05-11 17:56:43
+Habr,habr_1000166155,SRE-инженер,SimbirSoft,Не указан,True,,,,RUB,"Kubernetes, Docker, CI/CD, Ansible",Not specified,DevOps,2026-05-11 17:56:43
+Habr,habr_1000165981,Solution Architect,АстраЗенека,Москва,True,,,,RUB,"Docker, PostgreSQL, Redis, Kubernetes, REST",Not specified,Other IT,2026-05-11 17:56:43
+Habr,habr_1000163532,Golang Developer,Правое полушарие Интроверта,Не указан,True,200000.0,300000.0,250000.0,RUB,"Golang, MongoDB, ClickHouse, PostgreSQL, Apache Kafka",Not specified,Software Development,2026-05-11 17:56:43
+Habr,habr_1000155257,Бизнес/Системный аналитик,ИТ-компания «Лоция»,Москва,True,,,,RUB,"UML, BPMN, DWH, Системный анализ, BI",Not specified,Other IT,2026-05-11 17:56:43
+Habr,habr_1000163143,Системный аналитик,ИТ-компания «Лоция»,Не указан,True,,,,RUB,"Системный анализ, UML, Системная интеграция, BPMN, Разработка решений по интеграции",Not specified,Other IT,2026-05-11 17:56:46
+Habr,habr_1000164483,Технический архитектор 1С,ИТ-компания «Лоция»,Москва,True,,,,RUB,"Разработка под 1С, 1C: ERP, Проектирование, Техническая документация, Разработка решений по интеграции",Not specified,Other IT,2026-05-11 17:56:46
+Habr,habr_1000166386,Software Architect,Arenadata,Не указан,True,,,,RUB,Apache Hadoop,Not specified,Other IT,2026-05-11 17:56:46
+Habr,habr_1000165060,Консультант по внедрению 1С:Управление проектами (1С:РМ),Анонимный работодатель,Краснодар,True,,,,RUB,Управление проектами,Not specified,Other IT,2026-05-11 17:56:46
+Habr,habr_1000166321,Разработчик NET/C# с опытом OpenText xECM,МегаФон,Санкт-Петербург,False,,,,RUB,"C#, .NET",Not specified,Software Development,2026-05-11 17:56:46
+Habr,habr_1000164801,Архитектор Presale (Видеонаблюдение),МТ-Интеграция,Не указан,True,,,,RUB,Pre-sale,Not specified,Other IT,2026-05-11 17:56:46
+Habr,habr_1000162592,Разработчик 1С,Банк России,Рязань,False,,,,RUB,Разработка под 1С,Not specified,Software Development,2026-05-11 17:56:46
+Habr,habr_1000133419,DevOps,Cloud.ru,Не указан,True,,,,RUB,"GitLab, DevOps, Openstack, Terraform, Ansible",Not specified,DevOps,2026-05-11 17:56:46
+Habr,habr_1000162686,Аналитик 1С,МегаФон,Москва,True,,,,RUB,1C: ERP,Not specified,Other IT,2026-05-11 17:56:46
+Habr,habr_1000163096,Аналитик 1С (регламентированный учет),ИТ-компания «Лоция»,Москва,True,,,,RUB,"1C: ERP, Разработка ТЗ, Анализ требований, BPMN",Not specified,Other IT,2026-05-11 17:56:46
+Habr,habr_1000164861,MLOps специалист,Онлайн-кинотеатр Иви,Москва,False,,,,RUB,"GitLab, DevOps, Мониторинг",Not specified,Other IT,2026-05-11 17:56:46
+Habr,habr_1000165040,Аналитик 1С (направление «Логистика и склад»),Анонимный работодатель,Москва,False,,,,RUB,"SQL, 1C: ERP",Not specified,Other IT,2026-05-11 17:56:46
+Habr,habr_1000163167,Методолог (Исполнение бюджета),ЛАНИТ,Москва,False,,,,RUB,Техническая поддержка,Not specified,Other IT,2026-05-11 17:56:46
+Habr,habr_1000161236,Системный аналитик на проект внедрения Сферы,ИТ-Холдинг Т1,Не указан,True,,,,RUB,"REST, SOAP, Apache Kafka, UML, BPMN",Not specified,Other IT,2026-05-11 17:56:46
+Habr,habr_1000166223,Системный инженер C/С++ в команду Storage Core SPDK [MWS Cloud Platform],МТС Web Services,Москва,True,,,,RUB,"C++, C, NVM Express protocol",Not specified,DevOps,2026-05-11 17:56:46
+Habr,habr_1000160390,AppSec-инженер,Группа Астра,Москва,False,,,,RUB,"SAST/DAST, Linux",Not specified,Other IT,2026-05-11 17:56:46
+Habr,habr_1000165154,Разработчик Embedded STM32 C/C++,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"STM32, Linux, C++, C",Not specified,Software Development,2026-05-11 17:56:54
+Habr,habr_1000159295,C developer (MES),Eltex,Новосибирск,False,,,,RUB,"Linux, Git, C",Not specified,Software Development,2026-05-11 17:56:54
+Habr,habr_1000166260,Программист C#,ИнфоТеКС,Уфа,False,,,,RUB,"C#, .NET, RabbitMQ, PostgreSQL",Not specified,Software Development,2026-05-11 17:56:54
+Habr,habr_1000166135,C++ 3D разработчик,Spice IT,Москва,False,,,,RUB,"C++, 3d моделирование",Not specified,Software Development,2026-05-11 17:56:54
+Habr,habr_1000163864,Программист Delphi/C++,Базис-Центр,Коломна,False,70000.0,500000.0,285000.0,RUB,"Delphi, C++, Прикладная математика, Объектно-ориентированное проектирование, Многопоточность",Not specified,Software Development,2026-05-11 17:56:54
+Habr,habr_1000164910,Developer C++ (NTA),Лаборатория Касперского,Не указан,True,,,,RUB,"Разработка программного обеспечения, C++",Not specified,Software Development,2026-05-11 17:56:54
+Habr,habr_1000166377,Tech Lead C#,Смарт Горизонт,Не указан,True,,,,RUB,"C#, .NET, SQL",Senior,Other IT,2026-05-11 17:56:54
+Habr,habr_1000160391,Системный программист С/C++ (ОС Astra Linux),Группа Астра,Москва,True,,,,RUB,"Linux, C, C++",Not specified,Software Development,2026-05-11 17:56:54
+Habr,habr_1000165184,Developer C++ (KESL),Лаборатория Касперского,Не указан,True,,,,RUB,"Разработка программного обеспечения, C++",Not specified,Software Development,2026-05-11 17:56:54
+Habr,habr_1000165164,Инженер ПЛИС (OCV),Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"OpenCV, C++, C",Not specified,Other IT,2026-05-11 17:56:54
+Habr,habr_1000165155,Инженер-программист ArduPilot/PX4,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"Git, Linux, C++, C",Not specified,Software Development,2026-05-11 17:56:57
+Habr,habr_1000166162,DSP/Embedded Software Engineer (R&D) в Умные устройства,Яндекс,Санкт-Петербург,False,,,,RUB,"Цифровой сигнальный процессор, C, Embedded linux",Not specified,Software Development,2026-05-11 17:56:57
+Habr,habr_1000166033,Project Manager (Q&C),Лаборатория Касперского,Не указан,True,,,,RUB,Управление проектами,Not specified,Other IT,2026-05-11 17:56:57
+Habr,habr_1000165895,"Разработчик С# (User Interface, WPF)",Macroscop,Пермь,False,120000.0,,120000.0,RUB,"GitLab, .NET Core, Git, .NET, WPF",Not specified,Software Development,2026-05-11 17:56:57
+Habr,habr_1000166058,Инженер-программист,НПП Доза,Зеленоград,False,,,,RUB,"Linux, C++, Qt, MySQL",Not specified,Software Development,2026-05-11 17:56:57
+Habr,habr_1000165966,Специалист по разработке и эмуляции атак,ГАЗИНФОРМСЕРВИС,Санкт-Петербург,True,,,,RUB,"Linux, Виртуализация, Сетевая безопасность",Not specified,Other IT,2026-05-11 17:56:57
+Habr,habr_1000165229,Системный администратор vsphere NSX,Анонимный работодатель,Москва,True,,,,RUB,"Vmware vSphere, VMware",Not specified,Other IT,2026-05-11 17:56:57
+Habr,habr_1000165424,Ведущий разработчик / техлид WebRTC,Яндекс,Белград,True,,,,RUB,"WebRTC, Realtime",Not specified,Software Development,2026-05-11 17:56:57
+Habr,habr_1000166240,Эксперт по безопасной разработке,ИнфоТеКС,Томск,False,,,,RUB,SAST/DAST,Not specified,Other IT,2026-05-11 17:56:57
+Habr,habr_1000163905,Flutter-разработчик,ЛАНИТ,Москва,False,,,,RUB,"Flutter, Dart, Разработка под Android, Разработка под iOS",Not specified,Software Development,2026-05-11 17:56:57
+Habr,habr_1000161372,Сервисный инженер,ИТ-Холдинг Т1,Тула,False,,,,RUB,Техническая поддержка,Not specified,Other IT,2026-05-11 17:57:00
+Habr,habr_1000163194,Ведущий SRE-инженер (Москва),Cloud.ru,Москва,False,,,,RUB,SQL,Not specified,DevOps,2026-05-11 17:57:00
+Habr,habr_1000166372,Администратор БД/Разработчик SQL,Arenadata,Москва,False,,,,RUB,"Microsoft SQL, T-SQL, Git, SSIS",Not specified,Software Development,2026-05-11 17:57:00
+Habr,habr_1000166272,Руководитель цифровой трансформации / Директор по развитию FinTech × Bank,Refract,Москва,True,,,,RUB,"Управление проектами, Управление продуктами, Ведение переговоров, Системный анализ, SQL",Not specified,Other IT,2026-05-11 17:57:00
+Habr,habr_1000165062,Эксперт по технологическим вопросам 1С,Анонимный работодатель,Москва,False,,,,RUB,"Ведение переговоров, Администрирование 1С",Not specified,Other IT,2026-05-11 17:57:00
+Habr,habr_1000161457,Разработчик на Go в команду разработки LLM-проектов для B2B,Яндекс,Санкт-Петербург,False,,,,RUB,"Golang, PostgreSQL, LLM",Not specified,Software Development,2026-05-11 17:57:00
+Habr,habr_1000166263,IOS разработчик,М Тех,Москва,True,,,,RUB,Swift,Not specified,Software Development,2026-05-11 17:57:00
+Habr,habr_1000164797,Pre-sale архитектор,МТ-Интеграция,Москва,False,,,,RUB,Pre-sale,Not specified,Other IT,2026-05-11 17:57:00
+Habr,habr_1000166197,Android-разработчик,М Тех,Москва,True,,,,RUB,"Разработка под Android, Kotlin",Not specified,Software Development,2026-05-11 17:57:00
+Habr,habr_1000166127,Руководитель ИТ-инфраструктуры,ДОМ.РФ,Москва,False,,,,RUB,"Управление людьми, Terraform, Ansible, CI/CD",Not specified,Other IT,2026-05-11 17:57:00
+Habr,habr_1000166199,Аналитик 1С (ЗУП),М Тех,Москва,True,,,,RUB,Администрирование 1С,Not specified,Other IT,2026-05-11 17:57:00
+Habr,habr_1000163188,Технический лидер SRE,Cloud.ru,Москва,True,,,,RUB,SQL,Not specified,DevOps,2026-05-11 17:57:04
+Habr,habr_1000165879,Инженер аппаратной балансировки F5,ИТ-Холдинг Т1,Хабаровск,False,,,,RUB,"Nginx, Linux, Docker, Citrix, Администрирование сетей",Not specified,Other IT,2026-05-11 17:57:04
+Habr,habr_1000161385,Инженер по балансировке,ИТ-Холдинг Т1,Не указан,True,,,,RUB,Nginx,Not specified,Other IT,2026-05-11 17:57:04
+Habr,habr_1000166160,ИТ-лид (Team lead продуктовой команды с опытом SA),ЛАНИТ,Не указан,True,,,,RUB,"Управление людьми, Системный анализ, Scrum",Senior,Other IT,2026-05-11 17:57:04
+Habr,habr_1000164299,Руководитель группы разработки в команду развития опенсорс-технологий DevTools,Яндекс,Санкт-Петербург,False,,,,RUB,"C++, Управление людьми, Управление проектами",Not specified,Other IT,2026-05-11 17:57:04
+Habr,habr_1000164911,Research Developer (Windows),Лаборатория Касперского,Не указан,True,,,,RUB,"Разработка программного обеспечения, C++",Not specified,Software Development,2026-05-11 17:57:04
+Habr,habr_1000160638,GO-разработчик (Геосервисы),Wildberries & Russ,Москва,True,,,,RUB,"Golang, PostgreSQL, Kubernetes, MongoDB, Git",Not specified,Software Development,2026-05-11 17:57:16
+Habr,habr_1000165373,Go Platform Engineer,VK,Не указан,True,,,,RUB,Golang,Not specified,Other IT,2026-05-11 17:57:16
+Habr,habr_1000150590,Разработчик WebRTC-сервисов на Go в видеоплатформу,Яндекс,Нижний Новгород,True,300000.0,490000.0,395000.0,RUB,"Golang, Алгоритмы и структуры данных",Not specified,Software Development,2026-05-11 17:57:16
+Habr,habr_1000165613,Golang developer,Открытая мобильная платформа,Нижний Новгород,True,,,,RUB,Golang,Not specified,Software Development,2026-05-11 17:57:16
+Habr,habr_1000151221,Golang-разработчик,X5 Digital,Не указан,True,,,,RUB,Golang,Not specified,Software Development,2026-05-11 17:57:16
+Habr,habr_1000166143,"SRE/DevOps инженер (highload, bare metal)",Karma8,Не указан,True,350000.0,,350000.0,RUB,"Linux, Высоконагруженные системы, CI/CD",Not specified,DevOps,2026-05-11 17:57:16
+Habr,habr_1000165728,AppSec,Гринатом,Москва,True,,,,RUB,CI/CD,Not specified,Other IT,2026-05-11 17:57:16
+Habr,habr_1000166384,Golang-разработчик,Okko,Санкт-Петербург,True,,,,RUB,"PostgreSQL, Golang",Not specified,Software Development,2026-05-11 17:57:16
+Habr,habr_1000164745,Golang developer в Департамент Логистики,Wildberries & Russ,Москва,True,,,,RUB,Golang,Not specified,Software Development,2026-05-11 17:57:16
+Habr,habr_1000161274,Application Security Еngineer (Кибербезопасность),Wildberries & Russ,Санкт-Петербург,True,,,,RUB,Информационная безопасность,Not specified,Other IT,2026-05-11 17:57:19
+Habr,habr_1000166218,Консультант SAP BPC,Axenix (ex. Accenture),Не указан,True,,,,RUB,"SAP, ABAP, SAP S/4 HANA",Not specified,Other IT,2026-05-11 17:57:19
+Habr,habr_1000163355,Team Lead PHP,Marfatech,Не указан,True,,,,RUB,"PHP, Базы данных, MySQL, Symfony, Управление людьми",Senior,Other IT,2026-05-11 17:57:45
+Habr,habr_1000166157,Technical Product Manager,Spice IT,Москва,False,,,,RUB,Управление продуктами,Not specified,Other IT,2026-05-11 17:57:48
+Habr,habr_1000165591,Разработчик-аналитик на внутренние проекты,Фарпост,Владивосток,False,,,,RUB,"PHP, Symfony, Laravel, ООП, SQL",Not specified,Software Development,2026-05-11 17:57:53
+Habr,habr_1000164672,Программист PHP,Базис-Центр,Коломна,False,70000.0,250000.0,160000.0,RUB,"PHP, MySQL, Linux, Базы данных",Not specified,Software Development,2026-05-11 17:57:56
+Habr,habr_1000162491,Стажер Backend-разработчик (Laravel),PREAX,Не указан,True,,,,RUB,"PHP, Laravel, PostgreSQL, Docker, Git",Junior,Software Development,2026-05-11 17:57:56
+Habr,habr_1000166190,Chief Technology Officer (CTO),GETCASH,Новосибирск,True,,,,RUB,"PHP, PCI DSS, DevOps, CI/CD, MySQL",Not specified,Other IT,2026-05-11 17:57:56
+Habr,habr_1000165351,Стажер разработчик Ruby,ПСБ цифровая лаборатория,Москва,False,,,,RUB,Ruby,Junior,Software Development,2026-05-11 17:58:04
+Habr,habr_1000166385,Android Developer,Okko,Москва,False,,,,RUB,"Android SDK, Kotlin",Not specified,Software Development,2026-05-11 17:58:13
+Habr,habr_1000166236,Разработчик видеотехнологий для Android,Яндекс,Санкт-Петербург,False,,,,RUB,"Android SDK, Kotlin, Dagger 2, Разработка мобильных приложений, Разработка под Android",Not specified,Software Development,2026-05-11 17:58:13
+Habr,habr_1000165334,Руководитель направления регуляторной безопасности (Compliance),Совкомбанк Технологии,Саратов,False,,,,RUB,Информационная безопасность,Not specified,Other IT,2026-05-11 17:58:19
+Habr,habr_1000165350,Администратор систем ИБ (SIEM),Совкомбанк Технологии,Не указан,True,,,,RUB,"Splunk, ELK Stack, SQL, Bash, Высоконагруженные системы",Not specified,Other IT,2026-05-11 17:58:49
+Habr,habr_1000165956,Инженер поддержки продаж продуктов ИБ,ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,,,RUB,"Настройка VPN, Консультирование, Linux, Информационные технологии, Информационная безопасность",Not specified,Other IT,2026-05-11 17:58:52
+Habr,habr_1000162811,Архитектор по информационной безопасности,ПСБ цифровая лаборатория,Москва,False,,,,RUB,"Информационная безопасность, Анализ требований, Docker, CI/CD, Kubernetes",Not specified,Other IT,2026-05-11 17:58:52
+Habr,habr_1000165253,Руководитель направления эксплуатации сервисов мониторинга SOC,ИТ-компания «Лоция»,Москва,True,,,,RUB,"ELK Stack, Linux, Docker, Kubernetes, Git",Not specified,Other IT,2026-05-11 17:58:52
+Habr,habr_1000165935,Системный администратор Unix,Центр Финансовых Технологий,Новосибирск,False,,,,RUB,"Linux, Unix, Администрирование Linux, Системы виртуализации",Not specified,Other IT,2026-05-11 17:58:52
+Habr,habr_1000164816,Системный аналитик Linux,МТ-Интеграция,Москва,True,,,,RUB,"Git, Linux, UML, BPMN",Not specified,Other IT,2026-05-11 17:58:55
+Habr,habr_1000159767,Application Security инженер/DevSecOps,ЛАНИТ,Не указан,True,,,,RUB,"OWASP, SAST/DAST, SSDL",Not specified,Other IT,2026-05-11 17:58:58
+Habr,habr_1000166275,Системный инженер linux,ЛАНИТ,Не указан,True,,,,RUB,"Системы виртуализации, Unix, Администрирование Linux, Bash",Not specified,Other IT,2026-05-11 17:58:58
+Habr,habr_1000163092,Инженер сопровождения облачной платформы,Cloud.ru,Москва,False,,,,RUB,Linux,Not specified,Other IT,2026-05-11 17:58:58
+Habr,habr_1000166375,Руководитель отдела архитектуры и анализа,Смарт Горизонт,Не указан,True,,,,RUB,"DDD, BPMN, UML",Not specified,Other IT,2026-05-11 17:59:01
+Habr,habr_1000161388,Системный администратор Linux,ИТ-Холдинг Т1,Екатеринбург,False,,,,RUB,"Linux, Astra Linux, Debian",Not specified,Other IT,2026-05-11 17:59:04
+Habr,habr_1000166365,Linux System Engineer,BSS,Не указан,True,,,,RUB,Linux,Not specified,Other IT,2026-05-11 17:59:04
+Habr,habr_1000165033,Системный администратор Linux,Анонимный работодатель,Рязань,True,,,,RUB,"Linux, PostgreSQL, Nginx",Not specified,Other IT,2026-05-11 17:59:07
+Habr,habr_1000161343,Системный администратор (DNS/Linux),ИТ-Холдинг Т1,Калининград,False,,,,RUB,"Linux, DNS, Системное администрирование, Администрирование Linux, Active directory",Not specified,Other IT,2026-05-11 17:59:07
+Habr,habr_1000160155,Системный аналитик (ОС Astra Linux),Группа Астра,Москва,False,,,,RUB,"Linux, SQL, UML, Анализ требований, Техническая документация",Not specified,Other IT,2026-05-11 17:59:07
+Habr,habr_1000166348,Помощник сетевого администратора,"НПО ""Диагностические системы""",Нижний Новгород,False,100000.0,100000.0,100000.0,RUB,"Linux, DNS, Firewall, Mikrotik, Маршрутизация",Not specified,Other IT,2026-05-11 17:59:16
+Habr,habr_1000165996,Инженер - аналитик источников событий,ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,,,RUB,"Linux, SIEM",Not specified,Other IT,2026-05-11 17:59:16
+Habr,habr_1000164870,Аналитик SOC (направление сетевой безопасности),ИТ-компания «Лоция»,Москва,False,,,,RUB,"Linux, Информационная безопасность, SIEM, NGFW, Настройка оборудования Cisco",Not specified,Other IT,2026-05-11 17:59:16
+Habr,habr_1000163072,Инженер по кибербезопасности (DLP),Cloud.ru,Не указан,True,,,,RUB,Linux,Not specified,Other IT,2026-05-11 17:59:16
+Habr,habr_1000164265,Дежурный системный администратор  [MWS Cloud Platform],МТС Web Services,Санкт-Петербург,False,,,,RUB,"Linux, Zabbix, VMware",Not specified,DevOps,2026-05-11 17:59:16
+Habr,habr_1000161370,Инженер технической поддержки АРМ,ИТ-Холдинг Т1,Москва,False,,,,RUB,"Linux, Техническая поддержка, Администрирование Windows",Not specified,Other IT,2026-05-11 17:59:19
+Habr,habr_1000165960,Ведущий инженер/инженер проектировщик решений класса NTA,ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,,,RUB,"Linux, Проектирование, Информационная безопасность",Not specified,Other IT,2026-05-11 17:59:21
+Habr,habr_1000166396,Ведущий специалист информационной безопасности в ФЦИИТ,ФЦИИТ,Москва,False,222000.0,,222000.0,RUB,"NGFW, SIEM, Защита информации, Криптография, Linux",Not specified,Other IT,2026-05-11 17:59:21
+Habr,habr_1000165159,Сетевой инженер (техническая поддержка),Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"Техническая поддержка, Настройка VPN, Linux",Not specified,Other IT,2026-05-11 17:59:21
+Habr,habr_1000163091,Ведущий инженер SDS,Cloud.ru,Москва,True,,,,RUB,Linux,Not specified,Other IT,2026-05-11 17:59:21
+Habr,habr_1000164398,Ведущий инженер по сетевой виртуализации [MWS Cloud Platform],МТС Web Services,Санкт-Петербург,False,,,,RUB,"VMWare ESXi, Vmware vSphere, VMware, Linux, Ansible",Not specified,DevOps,2026-05-11 17:59:21
+Habr,habr_1000165315,Аналитик ИБ (SIEM),ЛАНИТ,Не указан,True,,,,RUB,"SIEM, Информационная безопасность, Администрирование Windows, Администрирование Linux, Firewall",Not specified,Other IT,2026-05-11 17:59:21
+Habr,habr_1000164665,Scala разработчик,Т-Банк,Екатеринбург,True,,,,RUB,Scala,Not specified,Software Development,2026-05-11 17:59:30
+Habr,habr_1000165271,Data analyst,ИТ-компания «Лоция»,Москва,True,,,,RUB,PostgreSQL,Not specified,Data Analytics,2026-05-11 17:59:38
+Habr,habr_1000164798,Архитектор решений / Архитектор Presale (СУБД),МТ-Интеграция,Не указан,True,,,,RUB,"PostgreSQL, SQL, Linux",Not specified,Other IT,2026-05-11 17:59:38
+Habr,habr_1000164829,Администратор Hadoop,Банк России,Москва,False,,,,RUB,"Apache Hadoop, Администрирование баз данных, Базы данных, Unix, PostgreSQL",Not specified,Other IT,2026-05-11 17:59:38
+Habr,habr_1000164190,Инженер данных (потоковая загрузка),Банк России,Санкт-Петербург,False,,,,RUB,"PostgreSQL, Базы данных, ClickHouse, Apache NiFi, SQL",Not specified,Data Engineering,2026-05-11 17:59:41
+Habr,habr_1000165604,Сервис менеджер/Ведущий инженер сопровождения,ЛАНИТ,Не указан,True,,,,RUB,"SQL, PostgreSQL, MongoDB, ITSM, ITIL",Not specified,Other IT,2026-05-11 17:59:43
+Habr,habr_1000113326,Разработчик Oracle,Банк России,Санкт-Петербург,False,,,,RUB,"SQL, Oracle, Oracle PL/SQL, Git, PostgreSQL",Not specified,Software Development,2026-05-11 17:59:43
+Habr,habr_1000162894,Аналитик данных,ПСБ цифровая лаборатория,Москва,False,,,,RUB,SQL,Not specified,Data Analytics,2026-05-11 17:59:48
+Habr,habr_1000161255,Системный аналитик (СОПББ),ИТ-Холдинг Т1,Ижевск,True,,,,RUB,"REST, SQL, XML",Not specified,Other IT,2026-05-11 17:59:51
+Habr,habr_1000166392,Системный аналитик,Eltex,Новосибирск,False,,,,RUB,"Linux, Системная аналитика, UML, BPMN, Техническая документация",Not specified,Other IT,2026-05-11 18:00:04
+Habr,habr_1000162808,Application Security Engineer (безопасность приложений),ПСБ цифровая лаборатория,Москва,False,,,,RUB,Информационная безопасность,Not specified,Other IT,2026-05-11 18:00:28
+Habr,habr_1000112963,Эксперт по информационной безопасности/ Архитектор ИБ,ИТ-Холдинг Т1,Самара,True,,,,RUB,"Проектирование информационных систем, Информационная безопасность, Анализ требований, Техническая документация, Управление требованиями к ПО",Not specified,Other IT,2026-05-11 18:00:30
+Habr,habr_1000162782,Специалист по информационной безопасности,ИТ-Холдинг Т1,Не указан,True,,,,RUB,"Управление рисками, Информационная безопасность, Управление проектами, Waterfall",Not specified,Other IT,2026-05-11 18:00:30
+Habr,habr_1000161264,Эксперт по информационной безопасности,ИТ-Холдинг Т1,Не указан,True,,,,RUB,"Управление рисками, Информационная безопасность, Управление проектами, Waterfall",Not specified,Other IT,2026-05-11 18:00:30
+Habr,habr_1000166324,Инженер-разработчик РЭА,ГК ТОФС,Не указан,True,,,,RUB,"STM32, Схемотехника, Разработка печатных плат, FPGA, Разработка электроники",Not specified,Software Development,2026-05-11 18:00:30
+Habr,habr_1000166325,Сценарист чат-бота,МегаФон,Не указан,True,,,,RUB,"Написание сценариев, Создание чат-ботов",Not specified,Other IT,2026-05-11 18:00:30
+Habr,habr_1000166186,B2B Sales Manager,Yavvi AI,Не указан,True,,,,RUB,"Ведение переговоров, Мониторинг и анализ рынка, Презентации",Not specified,Other IT,2026-05-11 18:00:48
+Habr,habr_1000163944,"Инженер технической поддержки (2 линия, удаленно)",CarTrek,Благовещенск,True,,,,RUB,"Английский язык, SQL, REST",Not specified,Other IT,2026-05-11 18:00:48
+Habr,habr_1000098092,Project Manager (ЦСТМ),СберЗдоровье,Не указан,True,,,,RUB,"Управление проектами, Управление разработкой, Agile, Scrum",Not specified,Other IT,2026-05-11 18:00:51
+Habr,habr_1000161288,Application Security Architecture Team (Кибербезопасность),Wildberries & Russ,Санкт-Петербург,True,,,,RUB,Информационная безопасность,Not specified,Other IT,2026-05-11 18:00:51
+Habr,habr_1000166334,"Программист 1С (зарплата, кадры)",ИнфоТеКС,Москва,False,,300000.0,300000.0,RUB,"1C: ERP, Разработка под 1С",Not specified,Software Development,2026-05-11 18:00:51
+Habr,habr_1000162889,Эксперт по валидации моделей,ПСБ цифровая лаборатория,Москва,False,,,,RUB,"SQL, Базы данных",Not specified,Other IT,2026-05-11 18:00:51
+Habr,habr_1000106918,IT-Project manager,Action tech,Москва,True,,,,RUB,"Управление проектами, Agile, Разработка ТЗ, Управление разработкой, Проектное планирование",Not specified,Other IT,2026-05-11 18:00:51
+Habr,habr_1000163191,Дежурный сетевой инженер (L2),Cloud.ru,Москва,True,,,,RUB,SQL,Not specified,Other IT,2026-05-11 18:00:58
+Habr,habr_1000163190,Руководитель направления SRE,Cloud.ru,Москва,True,,,,RUB,SQL,Not specified,DevOps,2026-05-11 18:01:07
+Habr,habr_1000166217,Архитектор программного обеспечения,Rubytech,Москва,False,,,,RUB,DevSecOps,Not specified,Other IT,2026-05-11 18:01:07
+Habr,habr_1000160859,Data Steward/Менеджер по данным,АстраЗенека,Москва,False,,,,RUB,"Базы данных, Алгоритмы и структуры данных",Not specified,Other IT,2026-05-11 18:01:10
+Habr,habr_1000166124,Аккаунт-директор / Account Director (e-commerce & data),AЭРО,Москва,False,,,,RUB,"Управление проектами, Развитие бизнеса, Управление рисками, Ведение переговоров",Not specified,Other IT,2026-05-11 18:01:10
+Habr,habr_1000166351,BI разработчик,CINIMEX,Москва,True,,,,RUB,"PowerBI, ClickHouse, Yandex DataLens, SQL",Not specified,Software Development,2026-05-11 18:01:10
+Habr,habr_1000166309,Системный аналитик ЦФТ,Юзтех,Не указан,True,,,,RUB,"SQL, Oracle PL/SQL, Apache Kafka, RabbitMQ",Not specified,Other IT,2026-05-11 18:01:15
+Habr,habr_1000166108,Менеджер AI проектов,АстраЗенека,Москва,False,,,,RUB,"Ведение переговоров, Управление проектами, Проектное планирование",Not specified,Other IT,2026-05-11 18:01:15
+Habr,habr_1000164588,IT Бизнес-аналитик,АстраЗенека,Москва,False,,,,RUB,"Бизнес аналитика, Системный анализ, UML, BPMN, Техническая документация",Not specified,Other IT,2026-05-11 18:01:15
+Habr,habr_1000166238,Ведущий операционный менеджер в сервис BareMetal,Яндекс,Санкт-Петербург,False,,,,RUB,"Linux, Администрирование серверов, Управление проектами, Управление людьми",Not specified,Other IT,2026-05-11 18:01:15
+Habr,habr_1000165596,Security analyst (hardware security),Лаборатория Касперского,Не указан,True,,,,RUB,Информационная безопасность,Not specified,Data Analytics,2026-05-11 18:01:27
+Habr,habr_1000166179,Веб-аналитик,Marfatech,Не указан,True,,,,RUB,"Яндекс.Метрика, SQL",Not specified,Other IT,2026-05-11 18:01:35
+Habr,habr_1000165022,Руководитель группы аналитиков и программистов 1С / Team Lead,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"Системный анализ, Планирование",Senior,Software Development,2026-05-11 18:01:35
+Habr,habr_1000166235,Системный аналитик (Информационная безопасность),ИнфоТеКС,Томск,False,,,,RUB,"BPMN, UML, Системный анализ, Системная аналитика",Not specified,Other IT,2026-05-11 18:01:35
+Habr,habr_1000165044,Системный аналитик 1С: Управление Холдингом,Анонимный работодатель,Москва,False,,,,RUB,"Системный анализ, Системная аналитика",Not specified,Other IT,2026-05-11 18:01:35
+Habr,habr_1000166305,Фуллстек-аналитик (бизнес/системный)/Сетевая безопасность,Солар,Москва,True,,,,RUB,"Linux, Сетевая безопасность, Информационная безопасность, Сетевые технологии, Системный анализ",Not specified,Other IT,2026-05-11 18:01:35
+Habr,habr_1000165133,Системный аналитик,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"SQL, XML, Системный анализ, UML, BPMN",Not specified,Other IT,2026-05-11 18:01:38
+Habr,habr_1000165946,Ведущий аналитик 1С (ГПХ),ИТ-компания «Лоция»,Не указан,True,,,,RUB,"1C: ERP, Управление людьми, Разработка ТЗ, Ведение переговоров",Not specified,Other IT,2026-05-11 18:01:38
+Habr,habr_1000165800,Аналитик 1С (БП),SimbirSoft,Не указан,True,,,,RUB,"Администрирование 1С, Разработка под 1С",Not specified,Other IT,2026-05-11 18:01:38
+Habr,habr_1000166165,Аналитик-консультант 1С,1С-Архитектор бизнеса,Москва,True,104400.0,,104400.0,RUB,Проведение исследований,Not specified,Other IT,2026-05-11 18:01:38
+Habr,habr_1000166360,Ведущий аналитик ERP.УХ на блок Казначейство,2GIS,Москва,True,,,,RUB,"1C: ERP, BPMN, Анализ требований, Техническая документация, Системный анализ",Not specified,Other IT,2026-05-11 18:01:41
+Habr,habr_1000166142,Аналитик SOC,Spice IT,Москва,False,,,,RUB,"SIEM, IDS, NGFW, Анализ угроз",Not specified,Other IT,2026-05-11 18:01:41
+Habr,habr_1000165057,"Аналитик 1С (ЗУП, БП, УТ или УНФ)",Анонимный работодатель,Пенза,True,,,,RUB,Оптимизация бизнес-процессов,Not specified,Other IT,2026-05-11 18:01:41
+Habr,habr_1000165059,Аналитик 1С,Анонимный работодатель,Санкт-Петербург,True,,,,RUB,SQL,Not specified,Other IT,2026-05-11 18:01:41
+Habr,habr_1000165053,Аналитик 1C:ERP,Анонимный работодатель,Самара,False,,,,RUB,Оптимизация бизнес-процессов,Not specified,Other IT,2026-05-11 18:01:41
+Habr,habr_1000161571,Стажер системный аналитик,Банк России,Томск,False,,,,RUB,"Системный анализ, BPMN, UML, Анализ требований, Управление требованиями к ПО",Junior,Other IT,2026-05-11 18:01:41
+Habr,habr_1000161256,Системный аналитик (НО БО),ИТ-Холдинг Т1,Казань,True,,,,RUB,"SQL, REST, XML",Not specified,Other IT,2026-05-11 18:01:44
+Habr,habr_1000165817,Сетевой инженер Huawei,ИТ-компания «Лоция»,Москва,False,,,,RUB,"Настройка VPN, Администрирование сетей, Администрирование оборудования Cisco",Not specified,Other IT,2026-05-11 18:01:44
+Habr,habr_1000166147,Аналитик SOC (L2-L3),Spice IT,Нижний Новгород,False,,,,RUB,SIEM,Not specified,Other IT,2026-05-11 18:01:44
+Habr,habr_1000165035,Консультант-аналитик 1С (регламентированный учёт),Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"Бизнес-моделирование, BPMN, Техническая документация",Not specified,Other IT,2026-05-11 18:01:44
+Habr,habr_1000165563,Аналитик по безопасности информационных систем,Совкомбанк Технологии,Саратов,False,,,,RUB,"Информационная безопасность, Анализ вредоносных программ, OWASP",Not specified,Other IT,2026-05-11 18:01:44
+Habr,habr_1000161386,"Менеджер по качеству (эквайринг, терминалы, ККТ, банкоматы, АДМ)",ИТ-Холдинг Т1,Санкт-Петербург,False,,130000.0,130000.0,RUB,"Мониторинг, Работа в команде, Microsoft Excel, Поддержка клиентов, Управление IT-услугами",Not specified,Other IT,2026-05-11 18:01:44
+Habr,habr_1000166123,Функциональный архитектор (1С:ЗУП КОРП),ИТ-Холдинг Т1,Нижний Новгород,False,,,,RUB,"Системный анализ, BPMN",Not specified,Other IT,2026-05-11 18:01:44
+Habr,habr_1000166359,Менеджер по компенсациям и льготам,Rubytech,Москва,False,,,,RUB,Разработка ТЗ,Not specified,Other IT,2026-05-11 18:01:47
+Habr,habr_1000166119,Продакт по росту и монетизации в музыкальный стартап,Vocaberry,Не указан,True,10000.0,60000.0,35000.0,RUB,Google Analytics,Not specified,Other IT,2026-05-11 18:01:47
+Habr,habr_1000166216,"Методолог (SAP, бюджетирование и управленческий учет)",Axenix (ex. Accenture),Не указан,True,,,,RUB,"SAP, SAP S/4 HANA, Microsoft Excel, Oracle",Not specified,Other IT,2026-05-11 18:01:47
+Habr,habr_1000165301,Эксперт по качеству проектирования и сертификации банковских процессов,Банк ВТБ,Москва,False,,,,RUB,"Описание бизнес-процессов, Моделирование, Microsoft Visio, Бизнес-моделирование",Not specified,Other IT,2026-05-11 18:01:47
+Habr,habr_1000166312,Консультант SAP EWM,М Тех,Москва,True,,,,RUB,SAP,Not specified,Other IT,2026-05-11 18:01:47
+Habr,habr_1000146557,Функциональный архитектор 1С,IBS,Пермь,False,,,,RUB,"1C: ERP, Оптимизация бизнес-процессов, Управление разработкой, Управление проектами, Автоматизация процессов",Not specified,Other IT,2026-05-11 18:01:47
+Habr,habr_1000164834,Эксперт отдела настройки правил Антифрод,Банк ВТБ,Москва,False,,,,RUB,"Linux, Базы данных",Not specified,Other IT,2026-05-11 18:01:50
+Habr,habr_1000166134,Специалист по интернет-рекламе,МастерВеб,Тверь,False,70000.0,100000.0,85000.0,RUB,"Яндекс директ, Контекстная реклама, Таргетированная реклама, Интернет маркетинг, Яндекс.Метрика",Not specified,Other IT,2026-05-11 18:01:50
+Habr,habr_1000156870,Администратор СХД и SAN,ИТ-Холдинг Т1,Хабаровск,False,,,,RUB,"Сеть хранения данных, Системное администрирование, Администрирование серверов",Not specified,Other IT,2026-05-11 18:01:50
+Habr,habr_1000166376,SQL-разработчик базы данных (офисный формат работы),ЛАНИТ,Москва,False,,,,RUB,"SQL, Базы данных, Высоконагруженные системы, Git",Not specified,Software Development,2026-05-11 18:01:50
+Habr,habr_1000166302,Специалист по учету материальных ИТ-активов,ГК «ЭФКО»,Тольятти,False,,,,RUB,"Microsoft Word, Microsoft Excel, Анализ данных, 1C: ERP, Грамотность",Not specified,Other IT,2026-05-11 18:01:50
+Habr,habr_1000162307,Администратор СРК и СХД,ИТ-Холдинг Т1,Нижний Новгород,True,,,,RUB,"NetBackup, Сеть хранения данных, Администрирование серверов, Системное администрирование, Администрирование сетей",Not specified,Other IT,2026-05-11 18:01:50
+Habr,habr_1000165208,Бренд-менеджер,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"B2B, B2C",Not specified,Other IT,2026-05-11 18:01:50
+Habr,habr_1000161325,Руководитель проектов ИБ,ЛАНИТ,Москва,False,,,,RUB,"Управление проектами, Информационная безопасность",Not specified,Other IT,2026-05-11 18:01:50
+Habr,habr_1000165026,Руководитель группы программистов,Анонимный работодатель,Санкт-Петербург,True,,,,RUB,Разработка под 1С,Not specified,Software Development,2026-05-11 18:01:53
+Habr,habr_1000165061,Программист 1С,Анонимный работодатель,Москва,True,,,,RUB,Разработка под 1С,Not specified,Software Development,2026-05-11 18:01:53
+Habr,habr_1000165265,Руководитель проектов,ИТ-компания «Лоция»,Москва,False,,,,RUB,"Бюджетирование проектов, Управление проектами, Управление рисками, Организация бизнес-процессов, Проектное планирование",Not specified,Other IT,2026-05-11 18:01:53
+Habr,habr_1000165027,Руководитель проектов 1С,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"Ведение переговоров, MS Project, Управление проектами",Not specified,Other IT,2026-05-11 18:01:53
+Habr,habr_1000163195,Менеджер клиентских инцидентов,Cloud.ru,Москва,True,,,,RUB,SQL,Not specified,Other IT,2026-05-11 18:01:53
+Habr,habr_1000165137,Customer Success Manager / КАМ / Кey Аccount Мanager,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,Ведение переговоров,Not specified,Other IT,2026-05-11 18:01:53
+Habr,habr_1000165135,Сервис менеджер,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,Управление проектами,Not specified,Other IT,2026-05-11 18:01:53
+Habr,habr_1000165030,Руководитель проектов 1С:УАТ (TMS/FMS),Анонимный работодатель,Москва,True,,,,RUB,Руководитель проектов 1С,Not specified,Other IT,2026-05-11 18:01:53
+Habr,habr_1000166277,Storage Engineer,ЛАНИТ,Не указан,True,,,,RUB,"Системы виртуализации, NetBackup",Not specified,Other IT,2026-05-11 18:02:00
+Habr,habr_1000165418,Системный инженер Microsoft,Яндекс,Минск,True,,,,RUB,Hyper-V,Not specified,Other IT,2026-05-11 18:02:02
+Habr,habr_1000165957,Ведущий менеджер по продаже программных продуктов ИБ,ГАЗИНФОРМСЕРВИС,Москва,False,,,,RUB,Информационные технологии,Not specified,Other IT,2026-05-11 18:02:13
+Habr,habr_1000166159,Технический писатель (документация на программно-аппаратные комплексы по ГОСТ),НТЦ ПРОТЕЙ,Санкт-Петербург,False,,,,RUB,"ЕСПД, ЕСКД",Not specified,Other IT,2026-05-11 18:02:13
+Habr,habr_1000163185,Начальник управления эксплуатации и развития средств защиты информации,Cloud.ru,Москва,False,,,,RUB,NGFW,Not specified,Other IT,2026-05-11 18:02:19
+Habr,habr_1000166299,Системный архитектор,ГК «ЭФКО»,Воронеж,False,,360000.0,360000.0,RUB,"Управление проектами, Информационная архитектура, Микросервисная архитектура, Высоконагруженные системы, LLM",Not specified,Other IT,2026-05-11 18:02:25
+Habr,habr_1000165215,Специалист по информационной безопасности,Анонимный работодатель,Москва,True,,,,RUB,"Защита информации, Защита от DDOS",Not specified,Other IT,2026-05-11 18:02:25
+Habr,habr_1000166329,Архитектор по облачным решениям цифровых сервисов,МегаФон,Не указан,True,,,,RUB,"Openstack, VMware, KVM",Not specified,Other IT,2026-05-11 18:02:28
+Habr,habr_1000166364,Технический писатель (ИТ-инфраструктура),BSS,Не указан,True,,,,RUB,Техническая документация,Not specified,Other IT,2026-05-11 18:02:46
+Habr,habr_1000164805,Руководитель направления по информационной безопасности,МТ-Интеграция,Москва,False,,,,RUB,SIEM,Not specified,Other IT,2026-05-11 18:02:52
+Habr,habr_1000165352,Разработчик 1С,ПСБ цифровая лаборатория,Москва,True,,,,RUB,Разработка под 1С,Not specified,Software Development,2026-05-11 18:02:52
+Habr,habr_1000166332,Программист 1С,"НПО ""Диагностические системы""",Нижний Новгород,False,140000.0,174000.0,157000.0,RUB,Разработка под 1С,Not specified,Software Development,2026-05-11 18:03:01
+Habr,habr_1000164701,Специалист по межсетевым экранам,ИТ-компания «Лоция»,Москва,False,,,,RUB,"Управление проектами, Информационные технологии",Not specified,Other IT,2026-05-11 18:03:30
+Habr,habr_1000165262,Серверный инженер,Контур,Екатеринбург,False,,,,RUB,"Администрирование серверов, Информационная безопасность, Zabbix",Not specified,Other IT,2026-05-11 18:03:30
+Habr,habr_1000166221,Эксперт по информационной безопасности (КИИ АСУ ТП),Rubytech,Москва,False,,,,RUB,Защита информации,Not specified,Other IT,2026-05-11 18:03:33
+Habr,habr_1000166219,Архитектор по информационной безопасности сетевой инфраструктуры (АСУ ТП),Rubytech,Москва,False,,,,RUB,Сетевая безопасность,Not specified,Other IT,2026-05-11 18:03:33
+Habr,habr_1000166304,Пресейл-инженер (Информационная безопасность/ИБ),Солар,Москва,False,,,,RUB,"Информационная безопасность, Сетевые технологии, Сетевая безопасность, Продажи",Not specified,Other IT,2026-05-11 18:03:33
+Habr,habr_1000166327,Менеджер по продажам ИБ-решений,ИнфоТеКС,Москва,False,,,,RUB,"Информационная безопасность, Сетевые технологии, DHCP",Not specified,Other IT,2026-05-11 18:03:33
+Habr,habr_1000166306,Администратор проекта (Информационная безопасность),Солар,Москва,False,,,,RUB,"Техническая документация, Управление проектами, Организация мероприятий",Not specified,Other IT,2026-05-11 18:03:33
+Habr,habr_1000163182,Архитектор по кибербезопасности,Cloud.ru,Москва,False,,,,RUB,NGFW,Not specified,Other IT,2026-05-11 18:03:33
+Habr,habr_1000163244,Архитектор по ИБ (системная интеграция),ЛАНИТ,Москва,False,,,,RUB,ГОСТ,Not specified,Other IT,2026-05-11 18:03:33
+Habr,habr_1000160370,Ведущий инженер по ИБ,ЛАНИТ,Нижний Новгород,True,,,,RUB,"Защита информации, Персональные данные, SIEM",Not specified,Other IT,2026-05-11 18:03:36
+Habr,habr_1000145003,Специалист по проектированию систем ИБ,ИнфоТеКС,Новосибирск,False,,,,RUB,"Информационная безопасность, Сетевая безопасность, Разработка систем защиты информации, Защита информации, Системная интеграция",Not specified,Other IT,2026-05-11 18:03:36
+Habr,habr_1000166303,Методолог,Солар,Москва,False,,,,RUB,"ГОСТ, Информационная безопасность",Not specified,Other IT,2026-05-11 18:03:36
+Habr,habr_1000161347,Эксперт по удаленному доступу (МСЭ),ИТ-Холдинг Т1,Не указан,True,,,,RUB,"OSPF, BGP",Not specified,Other IT,2026-05-11 18:03:36
+Habr,habr_1000165958,Инженер поддержки продаж по продукту SafeERP,ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,,,RUB,"Linux, SAP, Техническая документация, Администрирование 1С, Техническая поддержка",Not specified,Other IT,2026-05-11 18:03:36
+Habr,habr_1000166358,Руководитель проекта по дистрибуции ИТ-продуктов (ИБ),IT.IS,Москва,False,,,,RUB,"Ведение переговоров, Управление IT-услугами, B2B, B2G, Информационная безопасность",Not specified,Other IT,2026-05-11 18:03:36
+Habr,habr_1000166330,Специалист внедрения и сопровождения ( 2-3 линии технической поддержки),ИнфоТеКС,Иркутск,False,,,,RUB,"Сетевые технологии, Системное администрирование, Техническая поддержка, DHCP",Not specified,Other IT,2026-05-11 18:03:36
+Habr,habr_1000165318,Менеджер проектов ИБ (защита от утечек информации),Совкомбанк Технологии,Казань,False,,,,RUB,"Agile, Waterfall, SIEM, Защита информации",Not specified,Other IT,2026-05-11 18:03:39
+Habr,habr_1000165993,Менеджер направления СОК (SOC GSOC),ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,,,RUB,Информационная безопасность,Not specified,Other IT,2026-05-11 18:03:39
+Habr,habr_1000165069,Консультант по продажам и сопровождению клиентов 1С,Анонимный работодатель,Калуга,True,,,,RUB,Ведение переговоров,Not specified,Other IT,2026-05-11 18:03:42
+Habr,habr_1000166398,Professional Services Project Manager,Лаборатория Касперского,Москва,True,,,,RUB,Управление проектами,Not specified,Other IT,2026-05-11 18:03:42
+Habr,habr_1000165230,Системный администратор поддержки,Анонимный работодатель,Не указан,True,,,,RUB,"Техническая поддержка, Администрирование Windows, Active directory, DNS",Not specified,Other IT,2026-05-11 18:03:42
+Habr,habr_1000165024,Системный архитектор,ЛАНИТ,Москва,False,,,,RUB,"Управление проектами, Информационные технологии",Not specified,Other IT,2026-05-11 18:03:42
+Habr,habr_1000163246,Системный архитектор (системная интеграция),ЛАНИТ,Москва,False,,,,RUB,ГОСТ,Not specified,Other IT,2026-05-11 18:03:42
+Habr,habr_1000163071,Эксперт по защите периметра (WAF),Cloud.ru,Не указан,True,,,,RUB,Linux,Not specified,Other IT,2026-05-11 18:03:44
+Habr,habr_1000165138,Product manager (Hardware),Анонимный работодатель,Санкт-Петербург,False,,,,RUB,Управление продуктами,Not specified,Other IT,2026-05-11 18:03:50
+Habr,habr_1000162813,Product owner,ПСБ цифровая лаборатория,Москва,False,,,,RUB,Управление продуктами,Not specified,Other IT,2026-05-11 18:03:50
+Habr,habr_1000165134,Customer Success Manager,Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"SQL, Базы данных",Not specified,Other IT,2026-05-11 18:03:50
+Habr,habr_1000140951,Проджект менеджер / Project Manager,Emilius Agency,Не указан,True,20000.0,40000.0,30000.0,RUB,"Ведение переговоров, Управление IT-услугами, Agile, Kanban, Разработка ТЗ",Not specified,Other IT,2026-05-11 18:03:50
+Habr,habr_1000166184,Project-manager IT (менеджер проектов),Digital Life,Не указан,True,100000.0,180000.0,140000.0,RUB,Битрикс24,Not specified,Other IT,2026-05-11 18:03:50
+Habr,habr_1000165419,Руководитель Service Desk,Яндекс,Москва,False,,,,RUB,"ITIL, ITSM",Not specified,Other IT,2026-05-11 18:03:53
+Habr,habr_1000166173,Менеджер по продажам (со знанием английского языка),Ingros Sales,Нижний Новгород,False,,,,RUB,"Ведение переговоров, Английский язык, Продажи, Организация работы с CRM, Поддержка клиентов",Not specified,Other IT,2026-05-11 18:03:53
+Habr,habr_1000164333,Руководитель отдела технической поддержки [Новосибирск],deeplay,Новосибирск,False,,,,RUB,"Управление людьми, Администрирование Windows, Linux",Not specified,Other IT,2026-05-11 18:03:56
+Habr,habr_1000166250,Релиз-менеджер,РОСГОССТРАХ,Москва,True,,,,RUB,"CI/CD, SDL/SDLC, Jira",Not specified,Other IT,2026-05-11 18:03:56
+Habr,habr_1000165028,Руководитель проектов внедрения 1С,Анонимный работодатель,Челябинск,False,,,,RUB,"Ведение переговоров, MS Project, Планирование, Управление рисками, BPMN",Not specified,Other IT,2026-05-11 18:03:58
+Habr,habr_1000165296,Менеджер интернет проектов,Банк ВТБ,Москва,False,,,,RUB,"Интернет маркетинг, Разработка SEO-стратегии, SEO-оптимизация",Not specified,Other IT,2026-05-11 18:03:58
+Habr,habr_1000166140,Сетевой администратор / Network Administrator,Spice IT,Москва,False,,,,RUB,"Маршрутизация, Cisco CCNP, Настройка оборудования Cisco, Cisco CCNA, Zabbix",Not specified,Other IT,2026-05-11 18:04:08
+Habr,habr_1000165276,Системный администратор унифицированных коммуникаций (VOIP/ВКС),Банк ВТБ,Москва,False,,,,RUB,"Администрирование оборудования Cisco, ВКС",Not specified,Other IT,2026-05-11 18:04:08
+Habr,habr_1000166168,Ведущий сетевой инженер,IT-hunter,Москва,False,,,,RUB,"MPLS, LLDP/LACP/DCBX protocols, OSPF, Настройка оборудования Cisco, BGP",Not specified,Other IT,2026-05-11 18:04:24
+Habr,habr_1000160170,Аккаунт директор,RedLab,Москва,True,,,,RUB,Ведение переговоров,Not specified,Other IT,2026-05-11 18:04:55
+Habr,habr_1000166166,Программист-консультант 1С,1С-Архитектор бизнеса,Москва,True,,,,RUB,Разработка под 1С,Not specified,Software Development,2026-05-11 18:04:57
+Habr,habr_1000166298,Специалист информационных технологий,ГК «ЭФКО»,Тольятти,False,,,,RUB,"Техническая поддержка, Сетевые технологии, Настройка и ремонт компьютерной техники, Ремонт и обслуживание оргтехники, Проектирование и прокладка ЛВС",Not specified,Other IT,2026-05-11 18:05:04
+Habr,habr_1000163240,Ведущий инженер-проектировщик АСДУ,ЛАНИТ,Москва,False,,,,RUB,"AutoCAD, Проектирование, Autodesk Revit",Not specified,Other IT,2026-05-11 18:05:07
+Habr,habr_1000134952,Менеджер по развитию бизнеса,ЛАНИТ,Москва,False,,,,RUB,"Продажи, Привлечение клиентов, B2B",Not specified,Other IT,2026-05-11 18:05:07
+Habr,habr_1000165668,"Scrum-мастер (только офис, Владивосток)",Фарпост,Владивосток,False,,,,RUB,"Scrum, Agile, Kanban, Flow",Not specified,Other IT,2026-05-11 18:05:07
+Habr,habr_1000166389,Менеджер по продажам услуги ИТ-аутстаф (поиск+развитие клиентов),ЛАНИТ,Москва,False,150000.0,,150000.0,RUB,"Привлечение клиентов, Развитие бизнеса, Продажи HR-услуг",Not specified,Other IT,2026-05-11 18:05:07
+Habr,habr_1000166167,Менеджер по развитию корпоративных продаж 1С,1С-Архитектор бизнеса,Москва,False,,,,RUB,"Ведение переговоров, Kanban",Not specified,Other IT,2026-05-11 18:05:38
+Habr,habr_1000148037,Директор проектов 1С,IBS,Санкт-Петербург,False,,,,RUB,"Управление проектами, Управление рисками, Бизнес-консультирование, 1C: ERP",Not specified,Other IT,2026-05-11 18:05:38
+Habr,habr_1000163238,Директор по развитию бизнеса,ЛАНИТ,Нижний Новгород,False,,,,RUB,"Ведение переговоров, Развитие бизнеса, Продажи",Not specified,Other IT,2026-05-11 18:05:41
+Habr,habr_1000166315,Контент-менеджер (государственные информационные системы),ЛАНИТ,Москва,False,,,,RUB,"Контент маркетинг, Копирайтинг, Рерайтинг",Not specified,Other IT,2026-05-11 18:05:44
+Habr,habr_1000164952,Разработчик образовательных программ,deeplay,Не указан,True,,,,RUB,"Обучение персонала, Развитие сотрудников",Not specified,Software Development,2026-05-11 18:05:47
+Habr,habr_1000166259,Руководитель группы сетевых инженеров,SkyNet,Санкт-Петербург,False,,,,RUB,"MPLS, BGP, OSPF, Настройка оборудования Cisco, Juniper",Not specified,Other IT,2026-05-11 18:06:14
+Habr,habr_1000165297,Коммуникационный арт директор (оффлайн направление),Банк ВТБ,Москва,False,,,,RUB,"Управление людьми, Арт-директинг",Not specified,Other IT,2026-05-11 18:06:14
+Habr,habr_1000158252,Руководитель проекта,ЛАНИТ,Москва,False,,,,RUB,"Ведение переговоров, Планирование, Построение команды, Agile, Управление проектами",Not specified,Other IT,2026-05-11 18:06:14
+Habr,habr_1000165063,Менеджер по сопровождению клиентов в IT (стажер),Анонимный работодатель,Пенза,False,,,,RUB,Ведение переговоров,Junior,Other IT,2026-05-11 18:06:17
+Habr,habr_1000166136,Руководитель программы миграции на 1С:ERP,Spice IT,Екатеринбург,False,,,,RUB,1C: ERP,Not specified,Other IT,2026-05-11 18:06:17
+Habr,habr_1000166175,Менеджер проектов 1С ERP (управленческий учет),Greenway Global,Новосибирск,False,250000.0,350000.0,300000.0,RUB,"Управление проектами, Руководитель проектов 1С, 1C: ERP, Бюджетирование проектов, Ведение переговоров",Not specified,Other IT,2026-05-11 18:06:23
+Habr,habr_1000163183,Руководитель дежурных сетевых инженеров,Cloud.ru,Москва,True,,,,RUB,Cisco CCNP,Not specified,Other IT,2026-05-11 18:06:23
+Habr,habr_1000165136,"Менеджер проектных продаж (B2B, RetailTech)",Анонимный работодатель,Санкт-Петербург,False,,,,RUB,"Ведение переговоров, B2B",Not specified,Other IT,2026-05-11 18:06:54
+Habr,habr_1000165635,Консультант SAP FI,Fix Price,Москва,False,,,,RUB,"SAP ERP, ABAP",Not specified,Other IT,2026-05-11 17:50:39
+Habr,habr_1000164756,Программист 1С (Нижний Новгород),Инком,Нижний Новгород,False,160000.0,230000.0,195000.0,RUB,"1C: ERP, Администрирование 1С",Not specified,Software Development,2026-05-11 17:50:42
+Habr,habr_1000156377,"Дежурный инженер ИТ- поддержки (ЦОД, сервера, сеть, инженерное оборудование)",ИТ-компания «Лоция»,Нижний Новгород,False,,,,RUB,"Мониторинг сетей, Техническая поддержка",Not specified,Other IT,2026-05-11 17:50:47
+Habr,habr_1000165020,Руководитель группы продаж,Анонимный работодатель,Казань,False,,,,RUB,"Ведение переговоров, Продажи",Not specified,Other IT,2026-05-11 17:52:07
+Habr,habr_1000165228,Системный администратор локальной поддержки,Анонимный работодатель,Не указан,True,,,,RUB,"Администрирование сетей, Системное администрирование",Not specified,Other IT,2026-05-11 17:52:20
+Habr,habr_1000166354,Руководитель команды маркетинга,Directum,Не указан,True,,,,RUB,"Маркетинговые исследования, Стратегический маркетинг, Продуктовый маркетинг, Медиапланирование, Исследование рынка",Not specified,Other IT,2026-05-11 17:26:55
+Habr,habr_1000146767,"Специалист тех поддержки (английский язык, смены с 16:00 до 00:00 Мск)",ТехСофт,Не указан,True,50000.0,,50000.0,RUB,Английский язык,Not specified,Other IT,2026-05-11 17:27:02
+Habr,habr_1000157006,Сетевой инженер по эксплуатации сети,ИТ-Холдинг Т1,Москва,False,,,,RUB,"Cisco CCNA, BGP, OSPF",Not specified,Other IT,2026-05-11 17:27:56
+Habr,habr_1000161344,Дежурный инженер ЦОД,ИТ-Холдинг Т1,Москва,False,,,,RUB,"Администрирование серверов, Техническая поддержка, Настройка и ремонт компьютерной техники",Not specified,Other IT,2026-05-11 17:27:58
+Habr,habr_1000161365,Специалист техподдержки (ServiceDesk 1L),ИТ-Холдинг Т1,Самара,False,,,,RUB,Техническая поддержка,Not specified,Other IT,2026-05-11 17:28:14
