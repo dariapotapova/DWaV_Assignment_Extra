@@ -31,6 +31,21 @@ def process_themuse_data(input_file, output_file):
     print(f"Исходное количество: {len(df)}")
     print(f"Колонки: {list(df.columns)}")
 
+    initial_count = len(df)
+    print(f"\nНачинаем удаление дубликатов...")
+
+    df = df.drop_duplicates(subset=['id'], keep='first')
+    after_id = len(df)
+    print(f"  После удаления по id: {after_id} (-{initial_count - after_id})")
+
+    df = df.drop_duplicates(subset=['title', 'company'], keep='first')
+    after_title_company = len(df)
+    print(f"  После удаления по title+company: {after_title_company} (-{after_id - after_title_company})")
+
+    if 'url' in df.columns:
+        df = df.drop_duplicates(subset=['title', 'url'], keep='first')
+        print(f"  После удаления по title+url: {len(df)} (-{after_title_company - len(df)})")
+
     df['category'] = df['title'].apply(detect_category)
 
     df['remote_clean'] = False
@@ -119,7 +134,7 @@ def process_themuse_data(input_file, output_file):
     df['city_clean'] = df['city_clean'].fillna('Не указан')
     df['city_clean'] = df['city_clean'].replace('None', 'Не указан')
 
-    df = df.drop_duplicates(subset=['id'])
+    df = df.drop_duplicates(subset=['id', 'title', 'company'], keep='first')
 
     final_columns = ['source', 'id', 'title', 'company', 'city_clean', 'country',
                      'remote_clean', 'salary', 'salary_avg_usd', 'level', 'category',
@@ -141,16 +156,22 @@ def process_themuse_data(input_file, output_file):
                         'remote', 'salary', 'salary_avg_usd', 'level', 'category',
                         'url', 'publication_date', 'collected_at']
 
+    df_final = df_final.drop_duplicates(subset=['title'], keep='first')
+
+
     df_final.to_csv(output_file, index=False, encoding='utf-8-sig')
 
+    print(f"\nСтатистика:")
     print(f"   Удалённых вакансий: {df_final['remote'].sum()}")
     print(f"   Городов: {df_final['city'].nunique()}")
     print(f"   Стран: {df_final['country'].nunique()}")
 
+    print(f"\nТоп-10 стран:")
     country_counts = df_final['country'].value_counts().head(10)
     for country, count in country_counts.items():
         print(f"   {country}: {count}")
 
+    print(f"\nТоп-10 категорий:")
     cat_counts = df_final['category'].value_counts().head(10)
     for cat, count in cat_counts.items():
         print(f"   {cat}: {count}")
@@ -165,8 +186,15 @@ def inspect_raw_data(input_file):
     for city in unique_cities:
         print(f"  - {city}")
 
+    print(f"\nОбщее количество записей: {len(df)}")
+    print(f"Уникальных id: {df['id'].nunique()}")
+
 
 if __name__ == "__main__":
+
     inspect_raw_data('../../data/raw/themuse_vacancies.csv')
 
-    result = process_themuse_data('../../data/raw/themuse_vacancies.csv', '../data/clean/themuse_clean.csv')
+    print("\n" + "="*50)
+    print("ЗАПУСК ОБРАБОТКИ")
+    print("="*50)
+    result = process_themuse_data('../../data/raw/themuse_vacancies.csv', '../../data/clean/themuse_clean.csv')
